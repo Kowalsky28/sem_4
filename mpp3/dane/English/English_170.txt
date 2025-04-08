@@ -1,0 +1,9 @@
+As an example, for a classification algorithm that filters emails, the input would be an incoming email, and the output would be the name of the folder in which to file the email.
+
+Similarity learning is an area of supervised machine learning closely related to regression and classification, but the goal is to learn from examples using a similarity function that measures how similar or related two objects are.
+
+It has applications in ranking, recommendation systems, visual identity tracking, face verification, and speaker verification.
+
+Unsupervised learning algorithms take a set of data that contains only inputs, and find structure in the data, like grouping or clustering of data points.
+
+The algorithms, therefore, learn from test data that has not been labeled, classified or categorized.

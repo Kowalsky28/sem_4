@@ -1,0 +1,9 @@
+L'apprentissage automatique est utilisé pour un large spectre d'applications, par exemple : La qualité de l'apprentissage et de l'analyse dépendent du besoin en amont et a priori de la compétence de l'opérateur pour préparer l'analyse.
+
+Elle dépend aussi de la complexité du modèle (spécifique ou généraliste), de son adéquation et de son adaptation au sujet à traiter.
+
+In fine, la qualité du travail dépendra aussi du mode (de mise en évidence visuelle) des résultats pour l'utilisateur final (un résultat pertinent pourrait être caché dans un schéma trop complexe, ou mal mis en évidence par une représentation graphique inappropriée).
+
+Avant cela, la qualité du travail dépendra de facteurs initiaux contraignants, liées à la base de données : L'apprentissage automatique ne se résume pas à un ensemble d'algorithmes mais suit une succession d'étapes[25].
+
+L’apprentissage automatique demande de grandes quantités de données pour fonctionner correctement.

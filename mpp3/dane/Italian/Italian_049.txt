@@ -1,0 +1,9 @@
+Per usi commerciali, l'apprendimento automatico è conosciuto come analisi predittiva.
+
+L'apprendimento automatico si sviluppa con lo studio dell'intelligenza artificiale, e vi è strettamente collegato: infatti già dai primi tentativi di definire l'intelligenza artificiale come disciplina accademica, alcuni ricercatori si erano mostrati interessati alla possibilità che le macchine imparassero dai dati.
+
+Questi ricercatori, in particolare Marvin Minsky, Arthur Samuel e Frank Rosenblatt, provarono ad avvicinarsi al problema sia attraverso vari metodi formali, sia con quelle che vengono definite reti neurali nei tardi anni '50.
+
+Le reti neurali erano allora costituite da singoli percettroni e da modelli matematici derivati dal modello lineare generalizzato della statistica, come l'ADALINE di Widrow[8][9].
+
+Si provò a sfruttare anche ragionamenti probabilistici, in particolare nelle diagnosi mediche automatiche[10].

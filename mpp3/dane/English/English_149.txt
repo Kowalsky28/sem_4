@@ -1,0 +1,9 @@
+[354][355][356] They used PageRank "followed by the number of appearances in the 24 different language editions of Wikipedia (descending order) and the century in which they were founded (ascending order)".
+
+[356] A 2017 MIT study suggests that words used on Wikipedia articles end up in scientific publications.
+
+[357][358] Studies related to Wikipedia have been using machine learning and artificial intelligence to support various operations.
+
+One of the most important areas—automatic detection of vandalism[359][360] and data quality assessment in Wikipedia.
+
+[361] Several interactive multimedia encyclopedias incorporating entries written by the public existed long before Wikipedia was founded.

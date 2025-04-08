@@ -1,0 +1,9 @@
+La información obtenida por un algoritmo de aprendizaje no supervisado debe ser posteriormente interpretada por una persona para darle utilidad.
+
+A continuación se muestran una serie de temas que podrían formar parte del temario de un curso sobre aprendizaje automático.
+
+El aprendizaje automático nació de la búsqueda de inteligencia artificial.
+
+Ya en los primeros días de la IA como disciplina académica, algunos investigadores se interesaron en hacer que las máquinas aprendiesen.
+
+Trataron de resolver el problema con diversos métodos simbólicos, así como lo que ellos llamaron 'redes neurales' que eran en general perceptrones y otros modelos básicamente basados en modelos lineares generalizados como se conocen en las estadísticas.

@@ -1,0 +1,9 @@
+La maggior parte dei paradigmi di hard computing sono metodi ormai consolidati, ma presentano alcuni lati negativi: infatti richiedono sempre un modello analitico preciso e definibile, e spesso un alto tempo di computazione.
+
+Le tecniche di soft computing d'altro canto antepongono il guadagno nella comprensione del comportamento di un sistema a scapito della precisione, spesso non necessaria.
+
+I paradigmi di soft computing si basano su due principi[29]: L'apprendimento automatico si avvale delle tecniche di soft computing.
+
+La programmazione logica induttiva (anche ILP, dall'inglese inductive logic programming) è un approccio all'apprendimento di regole che usa la programmazione logica come rappresentazione uniforme per gli esempi di input, per la conoscenza di base della macchina, e per le ipotesi.
+
+Data una codifica della (nota) conoscenza di base e un insieme di esempi rappresentati come fatti in una base di dati logica, un sistema ILP deriva un programma logico ipotetico da cui conseguono tutti gli esempi positivi, e nessuno di quelli negativi.

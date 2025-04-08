@@ -1,0 +1,9 @@
+Muchos lenguajes de programación pueden usarse para implementar algoritmos de aprendizaje automático.
+
+Los más populares para 2015 eran R y Python.
+
+[6]​ R es muy usado ante todo en el campo académico, mientras que Python es más popular en la empresa privada.
+
+Entre los paquetes de software que incluyen algoritmos de aprendizaje automatizado, se hallan los siguientes:  Los algoritmos de aprendizaje automático a menudo pueden verse afectados por el sesgo que puedan tener los datos (Ver sesgo algoritmico).
+
+Por ejemplo no se podrán clasificar todos aquellas entradas de las que no se haya recibido ninguna información en la fase de entrenamiento.

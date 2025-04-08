@@ -1,0 +1,9 @@
+[37] In addition to performance bounds, learning theorists study the time complexity and feasibility of learning.
+
+In computational learning theory, a computation is considered feasible if it can be done in polynomial time.
+
+There are two kinds of time complexity results.
+
+Positive results show that a certain class of functions can be learned in polynomial time.
+
+Negative results show that certain classes cannot be learned in polynomial time.

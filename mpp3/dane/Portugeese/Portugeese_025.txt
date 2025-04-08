@@ -1,0 +1,9 @@
+Algumas edições da Wikipédia, como a Wikipédia em inglês, incluem arquivos de imagem não livres sob a doutrina do fair use (em português: uso justo), enquanto outras optaram por não o fazer, em parte, por causa das diferenças nas leis de direitos autorais dos vários países — por exemplo, a noção de fair use não existe na lei de direitos autorais japonesa.
+
+Arquivos de mídia cobertos por licenças de conteúdo livre (por exemplo, CC-BY-SA) são compartilhados entre as diferentes edições da Wikipédia através do repositório Wikimedia Commons, um projeto também operado pela Fundação Wikimedia.
+
+Como o conteúdo da Wikipédia é distribuído sob uma licença aberta, qualquer um pode reutilizar ou redistribuí-lo sem nenhum custo.
+
+O conteúdo da Wikipédia é publicado fora do site Wikipédia em muitas formas, tanto online como offline.
+
+Obter o conteúdo completo da Wikipédia para reutilização apresenta desafios, uma vez que a cópia direta através de um web crawler é desencorajada.

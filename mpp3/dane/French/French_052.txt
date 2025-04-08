@@ -1,0 +1,9 @@
+Ils sont cependant particulièrement encombrants, dépassant souvent plusieurs dizaines, voire centaines de gigaoctets et nécessitent pour être utilisés une certaine compétence technique.
+
+L'accès officiel à Wikipédia se charge automatiquement sur les plateformes iPhone, Android, WebOS, Opera Mini, NetFront (Sony Mobile, PlayStation) ou Wii.
+
+Contrairement aux contributeurs anonymes, les utilisateurs inscrits peuvent modifier les articles, consulter leur liste de suivi, ajouter et enlever des articles de cette liste, etc.
+
+Un bouton situé en bas de toutes les pages permet de basculer de la version bureau à la version mobile et réciproquement.
+
+Il existe également des logiciels qui permettent de transformer le contenu de Wikipédia sous forme de fichiers consultables sur des assistants personnels, comme Webaroo avec Plucker.

@@ -1,0 +1,9 @@
+Algunas ediciones de Wikipedia utilizan también bots para la creación masiva de artículos, normalmente esbozos.
+
+Para ser considerados como tales deben tener al menos el afijo BOT y un supervisor, el cual es el usuario propietario.
+
+[145]​ Wikipedia se ejecuta sobre el software libre MediaWiki.
+
+MediaWiki es la fase III del programa, cuya historia de desarrollo es la siguiente: Se instalan varias extensiones de MediaWiki para ampliar la funcionalidad del software MediaWiki.
+
+En julio de 2013, después de extensas pruebas beta, la extensión WYSIWYG del editor visual se abrió al uso público.

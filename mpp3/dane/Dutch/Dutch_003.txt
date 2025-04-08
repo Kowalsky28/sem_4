@@ -1,0 +1,9 @@
+Wikipedia wordt gepubliceerd onder een vrije licentie, waardoor de inhoud elders opnieuw te gebruiken is.
+
+De website is eigendom van de Wikimedia Foundation; het is het oudste en bekendste project van deze organisatie.
+
+Wikipedia is opgezet in de vorm van een wiki, hetgeen betekent dat elke inhoudelijke pagina door iedere bezoeker bewerkt kan worden.
+
+Voor Wikipedia is een apart programma ontworpen.
+
+De software, MediaWiki, is opensourcesoftware die ook gebruikt wordt door de andere projecten van de Wikimedia Foundation en door talloze andere projecten en bedrijven.

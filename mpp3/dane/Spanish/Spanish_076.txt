@@ -1,0 +1,9 @@
+[5]​ Los algoritmos de reglas de asociación procuran descubrir relaciones interesantes entre variables.
+
+Entre los métodos más conocidos se hallan el algoritmo a priori, el algoritmo Eclat y el algoritmo de Patrón Frecuente.
+
+Los algoritmos genéticos son procesos de búsqueda heurística que simulan la selección natural.
+
+Usan métodos tales como la mutación y el cruzamiento para generar nuevas clases que puedan ofrecer una buena solución a un problema dado.
+
+Las redes de neuronas artificiales (RNA) son un paradigma de aprendizaje automático inspirado en las neuronas de los sistemas nerviosos de los animales.

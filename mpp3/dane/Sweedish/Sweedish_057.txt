@@ -1,0 +1,9 @@
+[95][förtydliga] I en studie [96] utförd av forskare från University of Washington och HP Labs har man försökt analysera redigeringskrig och konflikter i engelskspråkiga Wikipedias datadump från 2006: Wikipedia är ett massornas samarbete där formuleringen av artiklar inte bestäms definitivt utan genom konsensus.
+
+De sociala relationerna mellan Wikipedianerna leder ibland till konflikter.
+
+Policyer ("policies") och riktlinjer ("guidelines") underlättar ofta konfliktlösning men forskarna har hittat flera exempel där fundamentalt olika tolkningar av policyer inte har lett till någon lösning utan tvärtom förhindrat konsensus.
+
+Författarna har valt att analysera engelskspråkiga Wikipedias datadump från 2006.
+
+I denna dump har man försökt hitta redigeringskrig genom att studera artiklar med minst 250 redigeringar på dess diskussionssidor.

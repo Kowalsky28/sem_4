@@ -1,0 +1,9 @@
+There is neither a separate reinforcement input nor an advice input from the environment.
+
+The backpropagated value (secondary reinforcement) is the emotion toward the consequence situation.
+
+The CAA exists in two environments, one is the behavioral environment where it behaves, and the other is the genetic environment, wherefrom it initially and only once receives initial emotions about situations to be encountered in the behavioral environment.
+
+After receiving the genome (species) vector from the genetic environment, the CAA learns a goal-seeking behavior, in an environment that contains both desirable and undesirable situations.
+
+[46] Several learning algorithms aim at discovering better representations of the inputs provided during training.

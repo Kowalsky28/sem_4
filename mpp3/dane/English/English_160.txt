@@ -1,0 +1,9 @@
+[19]:708–710; 755 Neural networks research had been abandoned by AI and computer science around the same time.
+
+This line, too, was continued outside the AI/CS field, as "connectionism", by researchers from other disciplines including Hopfield, Rumelhart and Hinton.
+
+Their main success came in the mid-1980s with the reinvention of backpropagation.
+
+[19]:25 Machine learning (ML), reorganized as a separate field, started to flourish in the 1990s.
+
+The field changed its goal from achieving artificial intelligence to tackling solvable problems of a practical nature.

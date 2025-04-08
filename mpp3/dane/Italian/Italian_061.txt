@@ -1,0 +1,9 @@
+La programmazione induttiva è un campo simile che considera ogni tipo di linguaggio di programmazione per rappresentare le ipotesi invece che soltanto la programmazione logica, come ad esempio programmi funzionali.
+
+L'albero di decisione è un metodo di apprendimento per approssimazione di una funzione obiettivo discreta in cui l'elemento che apprende è rappresentato da un albero di decisione.
+
+Gli alberi di decisione possono essere rappresentati da un insieme di regole if-else per migliorare la leggibilità umana.
+
+L'apprendimento automatico basato su regole di associazione è un metodo di apprendimento che identifica, apprende ed evolve delle "regole" con l'intento di immagazzinare, manipolare e applicare conoscenza.
+
+La caratteristica principale di questo tipo di apprendimento è l'identificazione ed utilizzo di un insieme di regole relazionali che rappresenta nel suo insieme la conoscenza catturata dal sistema.

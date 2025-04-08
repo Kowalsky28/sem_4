@@ -1,0 +1,9 @@
+Tüm Vikipedilerin şu an 314 dil sürümü, 304 etkin dil sürümü (100'den fazla maddesi bulunan) mevcuttur.
+
+Vikipedilerin toplamda 55.721.345 maddesi vardır.
+
+Vikipedi her dilde birbirinden bağımsızdır.
+
+İçeriklerin diğer dillerdeki gibi olma zorunluğu yoktur ya da maddelerin birbirlerinin tercümesi olması gerekmez.
+
+Maddelerin otomatik tercümelerine izin verilmez; ancak yine de diğer dillerdeki Vikipedistler kendileri bu maddeleri tercüme ederler.

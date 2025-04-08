@@ -1,0 +1,9 @@
+Data från wikidata länkas automatiskt in i allt fler av Wikipedias faktarutor.
+
+Visionen är att även listor, tabeller, diagram och kartor ska kunna skapas automatiskt för olika språk, något som emellertid kräver komplicerad programmering i sökverktyg som SPARQL(en)[25] och Quarry[26].
+
+Ett enklare alternativ kan vara att lagra en tabelldatafil, exempelvis från ett kalkylark, på en sida i Wikimedia Commons datanamnrymd, vilket underlättar automatiskt skapande av diagram och kartor på olika språk.
+
+[27][28][29] Wikidata är dessutom utformad för att vara en del av den semantiska webben.
+
+Syftet är att underlätta för maskiner (exempelvis kalkylprogram, artificiell intelligens och bottar) att söka, tolka, analysera, visualisera och uppdatera data i Wikidata.

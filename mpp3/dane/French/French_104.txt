@@ -1,0 +1,9 @@
+La plainte argue que les droits constitutionnels des plaignants sont violés, en particulier le Premier Amendement qui protège la liberté de parole et de la presse, et le Quatrième Amendement qui interdit « les fouilles ou saisies sans raison ».
+
+Lila Tretikov, directrice de la Fondation Wikimedia, déclare alors « Wikipedia est fondé sur la liberté d'expression, d'enquête et d'information.
+
+En violant la vie privée de nos usagers, la NSA menace la liberté intellectuelle qui est centrale pour la capacité à créer et à comprendre des connaissances »[136].
+
+Le 12 juin 2015, la Wikimedia Foundation annonce l'utilisation du protocole de communication chiffré HTTPS pour tout le trafic Wikimedia, dans l'optique de contrer la surveillance globale exercée par la NSA, qui profite en particulier des insuffisances du protocole de communication HTTP en matière de sécurité[137],[138].
+
+« Aujourd'hui, nous sommes heureux d'annoncer que nous sommes en train de mettre en œuvre le protocole HTTPS pour chiffrer tout le trafic Wikimedia.

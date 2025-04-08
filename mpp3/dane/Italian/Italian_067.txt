@@ -1,0 +1,9 @@
+Metodi di apprendimento basati su reti neurali e su modelli di Markov nascosti sono efficaci per la personalizzazione automatica di vocabolari, caratteristiche del microfono, rumore di fondo, ecc.
+
+Metodi di apprendimento automatico sono stati usati per addestrare i veicoli controllati da computer.
+
+Ad esempio, il sistema ALVINN[33] ha usato le sue strategie per imparare a guidare senza assistenza a 70 miglia all'ora per 90 miglia su strade pubbliche, tra le altre auto.
+
+Con tecniche simili sono possibili applicazioni in molti problemi di controllo basato su sensori.
+
+Metodi di apprendimento automatico sono stati applicati ad una varietà di banche dati di grandi dimensioni per imparare regolarità generali implicite nei dati.

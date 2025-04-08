@@ -1,0 +1,9 @@
+The types of machine learning algorithms differ in their approach, the type of data they input and output, and the type of task or problem that they are intended to solve.
+
+Supervised learning algorithms build a mathematical model of a set of data that contains both the inputs and the desired outputs.
+
+[38] The data is known as training data, and consists of a set of training examples.
+
+Each training example has one or more inputs and the desired output, also known as a supervisory signal.
+
+In the mathematical model, each training example is represented by an array or vector, sometimes called a feature vector, and the training data is represented by a matrix.

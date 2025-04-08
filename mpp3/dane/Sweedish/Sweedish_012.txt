@@ -1,0 +1,9 @@
+[21] Också vanliga kriterier för källkritik kan tillämpas på Wikipediaartiklar.
+
+Det är tillåtet att direkt kopiera stora delar av artiklarna eller enstaka bilder till en egen publikation, förutsatt att man publicerar den under samma licens som Wikipedia, CC BY-SA (en bild kan ligga under annan öppen licens), och anger källa till artikeln så som licensen kräver.
+
+Publicerar man inte under fri licens krävs att man kommer överens med upphovspersonerna, exempelvis med en fotograf, om ersättning.
+
+Referat av och korta citat från Wikipedia är tillåtna enligt citaträtten som från vilken som helst annan källa.
+
+Eftersom Wikipedia bygger på tidskriftsartiklar, forskningspublikationer och böcker finns risk för rundgång av felaktiga uppgifter, om professionella författare och skribenter slarvar med att uppge källa då de hämtar uppgifter från Wikipedia.

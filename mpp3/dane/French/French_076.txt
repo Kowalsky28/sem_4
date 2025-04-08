@@ -1,0 +1,9 @@
+De la même manière, la grande majorité des vandalismes détectés avaient été corrigés après 15 révisions au plus[64].
+
+En 2009, Dominique Cardon et Julien Levrel attribuent une partie de la réussite du mode de correction et du processus d'amélioration continue de Wikipédia à une gouvernance fondée sur la « vigilance participative »[65].
+
+À un premier niveau, tous les changements sont accessibles en temps réel sur une page récapitulant les « modifications récentes ».
+
+Ce flux est scruté en permanence par des volontaires, ainsi que par quelques automates[66].
+
+Les vandalismes les plus évidents (écrasements de pages entières, messages d'insulte, graffiti) sont généralement détectés à ce stade, et corrigés dans les secondes ou minutes qui suivent par un retour à la version précédente.

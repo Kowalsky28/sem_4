@@ -1,0 +1,9 @@
+Il servizio QRpedia consente di generare codici QR contenenti particolari link che permettono di accedere alla versione di Wikipedia mobile di una data voce, puntando automaticamente alla pagina nella stessa lingua del dispositivo in uso.
+
+Sono disponibili inoltre applicazioni dedicate per i vari dispositivi mobili, ad esempio Wikipedia Mobile per iPhone e Wikipedia Mobile per Android.
+
+«L'atteggiamento dell'accademico medio verso il principale strumento di consultazione della nostra epoca, e in particolare dei nostri studenti, conferma conclusioni cui eravamo già arrivati.
+
+Egli quasi sempre consulta Wikipedia (non per propria scelta, ma perché i motori di ricerca lo dirigono automaticamente alle sue voci), ma non prende in considerazione la possibilità di contribuirvi per tre motivi principali: perché la ritiene di livello troppo basso nel proprio settore specialistico; perché ritiene sé stesso troppo incompetente in qualsiasi altro settore e perché non ha tempo da perdere in lavori che non assicurano né compensi economici né titoli utili alla carriera.» La reputazione di Wikipedia quale mezzo di consultazione è soggetta a discussioni di opposti orientamenti: da una parte elogiata per la sua libera distribuzione, libera compilazione e ampia gamma di argomenti trattati, dall'altra criticata per presunti pregiudizi sistemici (secondo cui vengono privilegiate le voci di interesse dei singoli contributori indipendentemente dalla loro oggettiva importanza), lacune su alcuni argomenti e mancanza di responsabilità e autorità in rapporto alle enciclopedie tradizionali.
+
+Anche il concetto di "enciclopedia" di Wikipedia è oggetto di dibattito, a maggior ragione da quando essa ha incrementato la sua importanza.

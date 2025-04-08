@@ -1,0 +1,9 @@
+A hypothetical algorithm specific to classifying data may use computer vision of moles coupled with supervised learning in order to train it to classify the cancerous moles.
+
+Where as, a machine learning algorithm for stock trading may inform the trader of future potential predictions.
+
+[15] As a scientific endeavor, machine learning grew out of the quest for artificial intelligence.
+
+In the early days of AI as an academic discipline, some researchers were interested in having machines learn from data.
+
+They attempted to approach the problem with various symbolic methods, as well as what was then termed "neural networks"; these were mostly perceptrons and other models that were later found to be reinventions of the generalized linear models of statistics.

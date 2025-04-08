@@ -46,11 +46,15 @@ public class Perceptron {
             }
 
             double accuracy = (double) correct / examples.size();
-            if(accuracy*100 == 100.0) {
+
+            //System.out.printf("Epoka %d - Dokładność: %.2f%%\n", epochs, accuracy * 100);
+
+
+
+            if(epochs == 2000){
+                perfectAccuracy = true;
                 System.out.printf("Epoka %d - Dokładność: %.2f%%\n", epochs, accuracy * 100);
             }
-
-            perfectAccuracy = (accuracy == 1.0);
             epochs++;
         }
         //System.out.println(Arrays.toString(weights));

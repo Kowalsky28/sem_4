@@ -1,0 +1,9 @@
+In supervised feature learning, features are learned using labeled input data.
+
+Examples include artificial neural networks, multilayer perceptrons, and supervised dictionary learning.
+
+In unsupervised feature learning, features are learned with unlabeled input data.
+
+Examples include dictionary learning, independent component analysis, autoencoders, matrix factorization[48] and various forms of clustering.
+
+[49][50][51] Manifold learning algorithms attempt to do so under the constraint that the learned representation is low-dimensional.

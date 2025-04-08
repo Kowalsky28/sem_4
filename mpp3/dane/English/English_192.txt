@@ -1,0 +1,9 @@
+Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels.
+
+Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees.
+
+In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making.
+
+In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.
+
+Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression.

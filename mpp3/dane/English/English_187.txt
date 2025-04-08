@@ -1,0 +1,9 @@
+[64][65][66] Shapiro built their first implementation (Model Inference System) in 1981: a Prolog program that inductively inferred logic programs from positive and negative examples.
+
+[67] The term inductive here refers to philosophical induction, suggesting a theory to explain observed facts, rather than mathematical induction, proving a property for all members of a well-ordered set.
+
+Performing machine learning involves creating a model, which is trained on some training data and then can process additional data to make predictions.
+
+Various types of models have been used and researched for machine learning systems.
+
+Artificial neural networks (ANNs), or connectionist systems, are computing systems vaguely inspired by the biological neural networks that constitute animal brains.
