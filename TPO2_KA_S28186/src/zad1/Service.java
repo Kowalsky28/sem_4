@@ -38,14 +38,7 @@ public class Service {
         try (
                 BufferedReader br = new BufferedReader(new InputStreamReader(new URI(weatherApi).toURL().openStream()))
         ){
-            String json = br.lines().collect(Collectors.joining());
-            JsonObject jsonObject = new Gson().fromJson(json, JsonObject.class);
-            String part1 = jsonObject.getAsJsonArray("weather").get(0).getAsJsonObject().get("main").getAsString();
-            JsonObject mainData = jsonObject.getAsJsonObject("main");
-            double temp = mainData.get("temp").getAsDouble();
-            int humidity = mainData.get("humidity").getAsInt();
-
-            return "Weather: "+part1 +"\n" + "Temperature: " + temp + "°C\n" + "Humidity: " + humidity + "%";
+            return br.lines().collect(Collectors.joining());
 
         } catch (URISyntaxException e) {
             throw new RuntimeException(e);
