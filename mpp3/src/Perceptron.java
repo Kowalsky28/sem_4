@@ -68,9 +68,9 @@ public class Perceptron {
         return activation >= 0 ? 1.0 : 0.0;
     }
 
-    private double sigmoid(double x) {
+    /*private double sigmoid(double x) {
         return 1.0 / (1.0 + Math.exp(-x));
-    }
+    }*/
 
     public void test(Map<String, List<double[]>> testData) {
         int correctTarget = 0;
