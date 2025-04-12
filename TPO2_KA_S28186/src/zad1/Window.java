@@ -1,5 +1,8 @@
 package zad1;
 
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonObject;
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.scene.Scene;
@@ -45,7 +48,16 @@ public class Window extends JFrame {
         mainPanel = new JPanel(new BorderLayout());
         dataPanel = new JPanel(new GridLayout(4, 1));
         webPanel = new JPanel(new BorderLayout());
-        weather = new JTextArea(wheaterInfo);
+        JsonObject jsonObject = new Gson().fromJson(this.weatherInfo, JsonObject.class);
+        JsonObject mainData = jsonObject.getAsJsonObject("main");
+        JsonArray weatherData = jsonObject.getAsJsonArray("weather");
+        String sky = weatherData.get(0).getAsJsonObject().get("main").getAsString();
+        String description = weatherData.get(0).getAsJsonObject().get("description").getAsString();
+        double temp = mainData.get("temp").getAsDouble();
+        double feelsLike = mainData.get("feels_like").getAsDouble();
+        int humidity = mainData.get("humidity").getAsInt();
+        this.weatherInfo = "Weather: "+sky +"\nDescription: "+description+ "\nTemperature: " + temp + "°C\n"+"Feels like: "+ feelsLike+ "°C\nHumidity: " + humidity + "%";
+        weather = new JTextArea(this.weatherInfo);
         searchPanel = new JPanel(new GridLayout(4, 1, 5, 5));
         countryField = new JTextField("Germany");
         cityField = new JTextField("Berlin");
@@ -57,6 +69,15 @@ public class Window extends JFrame {
             this.currency = currencyField.getText();
             Service s = new Service(this.countryName);
             this.weatherInfo = s.getWeather(this.cityName);
+            JsonObject jsonObject1 = new Gson().fromJson(this.weatherInfo, JsonObject.class);
+            JsonObject mainData1 = jsonObject1.getAsJsonObject("main");
+            JsonArray weatherData1 = jsonObject1.getAsJsonArray("weather");
+            String sky1 = weatherData1.get(0).getAsJsonObject().get("main").getAsString();
+            String description1 = weatherData1.get(0).getAsJsonObject().get("description").getAsString();
+            double temp1 = mainData1.get("temp").getAsDouble();
+            double feelsLike1 = mainData1.get("feels_like").getAsDouble();
+            int humidity1 = mainData1.get("humidity").getAsInt();
+            this.weatherInfo = "Weather: "+sky1 +"\nDescription: "+description1+ "\nTemperature: " + temp1 + "°C\n"+"Feels like: "+ feelsLike1+ "°C\nHumidity: " + humidity1 + "%";
             this.exchangeRateInfo = s.getRateFor(this.currency);
             this.nbpRateInfo = s.getNBPRate();
             this.curCodeCountry = Currency.getInstance(new Locale("", s.getCountryCode(this.countryName)));
