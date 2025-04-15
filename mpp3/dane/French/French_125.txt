@@ -1,9 +1,0 @@
-L’AA ne distingue actuellement pas cause et corrélation de par sa construction mathématique, et est incapable d’aller au-delà du cadre imposé par ses données, il n’a donc pas de capacité d’extrapolation.
-
-Un exemple : si on apprend à un algorithme de retourner le chiffre qu’on lui donne (application identité) en l’entraînant uniquement avec les nombres 1 à 5, il sera incapable de correctement répondre à 6.
-
-Il est donc incapable d’extrapoler.
-
-L’utilisation d’algorithmes d’apprentissage automatique demande donc d’avoir conscience du cadre de données que l’on a utilisé pour l’apprentissage lors de leur utilisation.
-
-Il est donc prétentieux d’attribuer des vertus trop grandes aux algorithmes d’apprentissage automatique[27].

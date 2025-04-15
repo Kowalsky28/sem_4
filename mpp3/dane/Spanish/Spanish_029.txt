@@ -1,9 +1,0 @@
-Sin embargo, en la inglesa los usuarios no registrados no pueden comenzar artículos desde cero.
-
-Wikipedia fue creada con la idea de producir textos de calidad a partir de la colaboración entre usuarios, a semejanza de los proyectos de desarrollo de aplicaciones libres.
-
-Los artículos evolucionan con el paso del tiempo, y esto es visible en su historial de ediciones.
-
-Habitualmente, una parte de las ediciones son vandálicas —de contenido no relacionado con Wikipedia o con información falsa—, y en ocasiones editores con puntos de vista encontrados producen lo que se conoce como guerra de ediciones.
-
-Esta se produce cuando dos o más editores entran en un ciclo de reversiones mutuas debido a disputas causadas por diferencias de opinión sobre el contenido del artículo.

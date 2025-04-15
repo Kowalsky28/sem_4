@@ -1,9 +1,0 @@
-De hecho cuando el entrenamiento se realiza con datos clasificados por el ser humano el aprendizaje automático tiende a crear los mismos segos que hay en la sociedad.
-
-Algunos ejemplos de esto son cuando en 2015 el algoritmo de Google photos identificaba algunas personas negras con gorilas, o en 2016 cuando el bot de Twitter de Microsoft desarrollo comportamientos racistas y machistas a base de observar el tráfico de datos en dicha red social.
-
-Por este motivo en los últimos años ha habido una tendencia a desarrollar métodos para aumentar la equidad, es decir, para reducir el sesgo en este tipo algoritmos por parte de los expertos en IA.
-
-Citando a Fei-fei Li "La IA no tiene nada de especial.
-
-Se inspira en personas, es creada por personas, y lo más importante impacta en las personas.

@@ -1,9 +1,0 @@
-When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.
-
-[90] Language models learned from data have been shown to contain human-like biases.
-
-[91][92] Machine learning systems used for criminal risk assessment have been found to be biased against black people.
-
-[93][94] In 2015, Google photos would often tag black people as gorillas,[95] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.
-
-[96] Similar issues with recognizing non-white people have been found in many other systems.

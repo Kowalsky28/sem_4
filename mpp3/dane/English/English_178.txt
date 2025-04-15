@@ -1,9 +1,0 @@
-Sparse coding algorithms attempt to do so under the constraint that the learned representation is sparse, meaning that the mathematical model has many zeros.
-
-Multilinear subspace learning algorithms aim to learn low-dimensional representations directly from tensor representations for multidimensional data, without reshaping them into higher-dimensional vectors.
-
-[52] Deep learning algorithms discover multiple levels of representation, or a hierarchy of features, with higher-level, more abstract features defined in terms of (or generating) lower-level features.
-
-It has been argued that an intelligent machine is one that learns a representation that disentangles the underlying factors of variation that explain the observed data.
-
-[53] Feature learning is motivated by the fact that machine learning tasks such as classification often require input that is mathematically and computationally convenient to process.

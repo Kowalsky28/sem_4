@@ -1,9 +1,0 @@
-Selon les informations disponibles durant la phase d'apprentissage, l'apprentissage est qualifié de différentes manières.
-
-Si les données sont étiquetées (c'est-à-dire que la réponse à la tâche est connue pour ces données), il s'agit d'un apprentissage supervisé.
-
-On parle de classification ou de classement[3] si les étiquettes sont discrètes, ou de régression si elles sont continues.
-
-Si le modèle est appris de manière incrémentale en fonction d'une récompense reçue par le programme pour chacune des actions entreprises, on parle d'apprentissage par renforcement.
-
-Dans le cas le plus général, sans étiquette, on cherche à déterminer la structure sous-jacente des données (qui peuvent être une densité de probabilité) et il s'agit alors d'apprentissage non supervisé.

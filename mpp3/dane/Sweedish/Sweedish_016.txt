@@ -1,9 +1,0 @@
-Varje sida har en versionshistorik, där man ser vilken användaridentitet som har ändrat vad och när på sidan.
-
-Wikipedias artiklar redigeras vanligen genom att man använder wikikod (wikitext), som är ett kompakt märkspråk.
-
-För nybörjare och andra som inte vill eller kan använda märkspråk finns sedan sommaren 2013 ett alternativt och enklare redigeringsgränssnitt – VisualEditor.
-
-[24] VisualEditor nås genom att välja fliken Redigera ovanför artikeln, medan wikikoden redigeras genom att välja Redigera wikitext.
-
-Båda metoderna kan användas för att wikifiera artikeln, det vill säga för att infoga länkar till andra artiklar, fotnoter, kategorier, bilder, rubriker, tabeller och annan typografisk formatering.

@@ -1,9 +1,0 @@
-In June 2007 Wikipedia launched en.mobile.wikipedia.org, an official website for wireless devices.
-
-In 2009 a newer mobile service was officially released,[287] located at en.m.wikipedia.org, which caters to more advanced mobile devices such as the iPhone, Android-based devices or WebOS-based devices.
-
-Several other methods of mobile access to Wikipedia have emerged.
-
-Many devices and applications optimize or enhance the display of Wikipedia content for mobile devices, while some also incorporate additional features such as use of Wikipedia metadata (see Wikipedia:Metadata), such as geoinformation.
-
-[288][289] Wikipedia Zero was an initiative of the Wikimedia Foundation to expand the reach of the encyclopedia to the developing countries.

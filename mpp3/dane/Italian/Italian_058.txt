@@ -1,9 +1,0 @@
-L'apprendimento automatico viene a volte unito al data mining,[25] che si focalizza maggiormente sull'analisi esplorativa dei dati ed utilizza principalmente il paradigma di apprendimento chiamato "apprendimento non supervisionato"[26].
-
-Invece, l'apprendimento automatico può essere anche supervisionato[27].
-
-L'apprendimento automatico e il data mining infatti si sovrappongono in modo significativo, ma mentre l'apprendimento automatico si concentra sulla previsione basata su proprietà note apprese dai dati, il data mining si concentra sulla scoperta di proprietà prima sconosciute nei dati.
-
-Il data mining sfrutta i metodi dell'apprendimento automatico, ma con obiettivi differenti; d'altro canto, l'apprendimento automatico utilizza i metodi di data mining come metodi di apprendimento non supervisionato o come passi di preprocessing per aumentare l'accuratezza dell'apprendimento.
-
-Gran parte della confusione tra le due comunità di ricerca scaturisce dall'assunzione di base del loro operato: nell'apprendimento automatico, le prestazioni sono generalmente valutate in base all'abilità di riprodurre conoscenza già acquisita, mentre in data mining il compito chiave è la scoperta di conoscenza che prima non si aveva.

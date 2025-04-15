@@ -1,9 +1,0 @@
-[8] The article in The New York Times reported the comparison statistics for mobile edits stating that, "Only 20 percent of the readership of the English-language Wikipedia comes via mobile devices, a figure substantially lower than the percentage of mobile traffic for other media sites, many of which approach 50 percent.
-
-And the shift to mobile editing has lagged even more.
-
-"[8] The New York Times reports that Möller has assigned "a team of 10 software developers focused on mobile", out of a total of approximately 200 employees working at the Wikimedia Foundation.
-
-One principal concern cited by The New York Times for the "worry" is for Wikipedia to effectively address attrition issues with the number of editors which the online encyclopedia attracts to edit and maintain its content in a mobile access environment.
-
-[8] Bloomberg Businessweek reported in July 2014 that Google's Android mobile apps have dominated the largest share of global smartphone shipments for 2013 with 78.6% of market share over their next closest competitor in iOS with 15.2% of the market.

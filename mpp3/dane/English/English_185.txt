@@ -1,9 +1,0 @@
-Such information can be used as the basis for decisions about marketing activities such as promotional pricing or product placements.
-
-In addition to market basket analysis, association rules are employed today in application areas including Web usage mining, intrusion detection, continuous production, and bioinformatics.
-
-In contrast with sequence mining, association rule learning typically does not consider the order of items either within a transaction or across transactions.
-
-Learning classifier systems (LCS) are a family of rule-based machine learning algorithms that combine a discovery component, typically a genetic algorithm, with a learning component, performing either supervised learning, reinforcement learning, or unsupervised learning.
-
-They seek to identify a set of context-dependent rules that collectively store and apply knowledge in a piecewise manner in order to make predictions.

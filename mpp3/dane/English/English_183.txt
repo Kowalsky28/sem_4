@@ -1,9 +1,0 @@
-In developmental robotics, robot learning algorithms generate their own sequences of learning experiences, also known as a curriculum, to cumulatively acquire new skills through self-guided exploration and social interaction with humans.
-
-These robots use guidance mechanisms such as active learning, maturation, motor synergies and imitation.
-
-Association rule learning is a rule-based machine learning method for discovering relationships between variables in large databases.
-
-It is intended to identify strong rules discovered in databases using some measure of "interestingness".
-
-[60] Rule-based machine learning is a general term for any machine learning method that identifies, learns, or evolves "rules" to store, manipulate or apply knowledge.

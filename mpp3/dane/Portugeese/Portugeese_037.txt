@@ -1,9 +1,0 @@
-Por exemplo, o Meta-Wiki fornece estatísticas importantes em todas as versões da Wikipédia e mantém uma lista dos artigos essenciais, que devem constar em todas as edições do projeto.
-
-Artigos traduzidos representam apenas uma pequena porção de artigos na maioria das edições, em parte porque a tradução automática de artigos não é permitida.
-
-Artigos disponíveis em mais de uma língua podem oferecer links chamados de "Interwikis", com ligações para o mesmo artigo em outra língua.
-
-O processo de atualização da Wikipédia não é apenas diário: ocorre a qualquer instante, muitas vezes em tempo real, no tocante a eventos mais importantes.
-
-Sobre isso, a revista Época salientou: "O verbete sobre a presidente eleita do Chile, Michelle Bachelet, trazia a notícia sobre a sua vitória nas eleições momentos após o anúncio oficial".

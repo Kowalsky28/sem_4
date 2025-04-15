@@ -1,9 +1,0 @@
-Gli algoritmi genetici sono stati applicati con successo a una varietà di compiti di apprendimento e di altri problemi di ottimizzazione.
-
-Ad esempio, essi sono stati usati per imparare raccolte di norme per il controllo del robot e per ottimizzare la topologia dei parametri di apprendimento per reti neurali artificiali.
-
-Il ragionamento bayesiano fornisce un approccio probabilistico di inferenza.
-
-Esso si basa sul presupposto che le quantità di interesse sono disciplinate da distribuzioni di probabilità e che le decisioni ottimali possono essere prese a seguito dell'analisi di queste probabilità insieme ai dati osservati.
-
-Nell'ambito dell'apprendimento automatico, la teoria Bayesiana è importante perché fornisce un approccio quantitativo per valutare le prove a sostegno dell'ipotesi alternativa.

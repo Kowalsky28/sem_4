@@ -1,9 +1,0 @@
-Les notions de percept et de concept comme phénomènes neuronaux physiques ont d'ailleurs été popularisés dans le monde francophone par Jean-Pierre Changeux.
-
-L'apprentissage automatique reste avant tout un sous-domaine de l'informatique, mais il est étroitement lié opérationnellement aux sciences cognitives, aux neurosciences, à la biologie et à la psychologie, et pourrait à la croisée de ces domaines, nanotechnologies, biotechnologies, informatique et sciences cognitives, aboutir à des systèmes d'intelligence artificielle ayant une assise plus vaste.
-
-Des enseignements publics ont notamment été dispensés au Collège de France, l'un par Stanislas Dehaene[34] orienté sur l'aspect bayésien des neurosciences, et l'autre par  Yann LeCun[35] sur les aspects théoriques et pratiques de l'apprentissage profond.
-
-Un algorithme peut être biaisé lorsque son résultat dévie par rapport à un résultat neutre, loyal ou équitable.
-
-Dans certains cas, les biais algorithmiques peuvent conduire à des situations de discrimination[36].

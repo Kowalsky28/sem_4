@@ -1,9 +1,0 @@
-Inoltre esse sono robuste agli errori presenti nel training data.
-
-Gli algoritmi genetici forniscono un approccio all'apprendimento che è liberamente ispirato all'evoluzione simulata.
-
-La ricerca di una soluzione del problema inizia con una popolazione di soluzioni iniziale.
-
-I membri della popolazione attuale danno luogo a una popolazione di nuova generazione per mezzo di operazioni quali la mutazione casuale e crossover, che sono modellati sui processi di evoluzione biologica.
-
-Ad ogni passo, le soluzioni della popolazione attuale sono valutate rispetto a una determinata misura di fitness, con le ipotesi più adatte selezionate probabilisticamente come semi per la produzione della prossima generazione.

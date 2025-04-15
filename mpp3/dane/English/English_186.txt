@@ -1,9 +1,0 @@
-[63] Inductive logic programming (ILP) is an approach to rule-learning using logic programming as a uniform representation for input examples, background knowledge, and hypotheses.
-
-Given an encoding of the known background knowledge and a set of examples represented as a logical database of facts, an ILP system will derive a hypothesized logic program that entails all positive and no negative examples.
-
-Inductive programming is a related field that considers any kind of programming language for representing hypotheses (and not only logic programming), such as functional programs.
-
-Inductive logic programming is particularly useful in bioinformatics and natural language processing.
-
-Gordon Plotkin and Ehud Shapiro laid the initial theoretical foundation for inductive machine learning in a logical setting.

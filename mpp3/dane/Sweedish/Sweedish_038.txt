@@ -1,9 +1,0 @@
-Användare som kontinuerligt förstör artiklar kan utestängas från framtida deltagande i projektet genom att en administratör blockerar deras användarkonto eller IP-adress.
-
-En tidig studie gjord av IBM 2003 visade att vandalism i genomsnitt tas bort mycket snabbt, men i enstaka fall kan ligga kvar mycket länge.
-
-[59] En annan tidig studie (från 2007) som mätte sidvisningar på engelskspråkiga Wikipedia med felaktigt vandaliserat innehåll kom fram till att 42 procent av allt klotter eller vandalism återställdes innan det hunnit ses av icke inloggade användare.
-
-[60] Ett annat beteende som ofta ses som ett problem är bidragsgivare som använder flera användarnamn utöver sitt egentliga i vilseledande syfte.
-
-Dessa kallas sock puppets eller marionetter.

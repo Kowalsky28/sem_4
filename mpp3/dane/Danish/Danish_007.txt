@@ -1,9 +1,0 @@
-De tre bærende principper på Wikipedia, der tilsammen definerer dens niche på World Wide Web er: Wikipedia støttes af Richard M. Stallman og Free Software Foundation.
-
-Stallman påpegede brugbarheden af en "fri universel encyklopædi" før Wikipedia blev startet.
-
-Oprindeligt startede Wikipedia med at køre på UseModWiki, skrevet af Clifford Adams.
-
-Den 26. januar 2002 skiftede den engelske Wikipedia program fra UseModWiki til PHP og MySQL.
-
-Den 25. september 2002 skiftede den danske Wikipedia over til samme program.

@@ -1,9 +1,0 @@
-Kullanıcılar izleme listelerine ilgilerini çeken maddeleri eklerler, bu sayede bu maddelerin gelişimini izleyebilirler.
-
-Vikipedi'deki birçok geçmiş değişiklik de sayfa geçmişinde kullanıcılar tarafından kronolojik olarak görülebilir.
-
-Sadece, eğer söylenmeyecek sunumlar, telif hakkı ihlalleri ve yasal olarak Vikipedi'ye sorun çıkaracak hususlar varsa, bunlar sayfa geçmişinden silinebilir.
-
-Bu değişiklikler sadece Vikipedi hizmetlileri tarafından yapılabilir.
-
-Bazı maddeler için, seslendirilmiş sürümleri ogg biçiminde sunulmaktadır.

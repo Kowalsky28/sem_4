@@ -1,9 +1,0 @@
-For example topic modeling, dimensionality reduction or meta learning.
-
-[7] As of 2020, deep learning has become the dominant approach for much ongoing work in the field of machine learning.
-
-[6] The term machine learning was coined in 1959 by Arthur Samuel, an American IBMer and pioneer in the field of computer gaming and artificial intelligence.
-
-[8][9] A representative book of the machine learning research during the 1960s was the Nilsson's book on Learning Machines, dealing mostly with machine learning for pattern classification.
-
-[10] Interest related to pattern recognition continued into the 1970s, as described by Duda and Hart in 1973.

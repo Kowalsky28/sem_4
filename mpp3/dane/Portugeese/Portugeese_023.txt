@@ -1,9 +1,0 @@
-[65] Todo o texto contido na Wikipédia era coberto pela GNU Free Documentation License (GFDL), uma licença copyleft que permite a redistribuição, a criação de obras derivadas e o uso comercial do conteúdo preservando os direitos autorais dos autores, até junho de 2009, quando foi adotada a licença Creative Commons Attribution-ShareAlike (CC-BY-SA) 3.0.
-
-[66] A Wikipédia tem trabalhado na mudança para as Licenças Creative Commons porque a GFDL, inicialmente projetada para manuais de software, não foi considerada adequada para obras de referência online e porque as duas licenças eram incompatíveis.
-
-[67] Em resposta ao pedido da Fundação Wikimedia, em novembro de 2008, a Free Software Foundation (FSF) lançou uma nova versão da GFDL concebida especificamente para permitir à Wikipédia relicenciar seu conteúdo para CC-BY-SA em 1 de agosto de 2009.
-
-A Wikipédia e seus projetos irmãos realizaram um referendo em toda a comunidade para decidir se devia ou não fazer a troca da licença.
-
-O referendo ocorreu entre 9 e 30 de abril.

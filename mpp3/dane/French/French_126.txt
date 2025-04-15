@@ -1,9 +1,0 @@
-La voiture autonome paraît réalisable grâce à l’apprentissage automatique et les énormes quantités de données générées par la flotte automobile, de plus en plus connectée.
-
-Contrairement aux algorithmes classiques (qui suivent un ensemble de règles prédéterminées), l’apprentissage automatique apprend ses propres règles[28].
-
-Les principaux innovateurs dans le domaine insistent sur le fait que le progrès provient de l’automatisation des processus.
-
-Ceci présente le défaut que le processus d’apprentissage automatique devient privatisé et obscur.
-
-Privatisé, car les algorithmes d’AA constituent des gigantesques opportunités économiques, et obscurs car leur compréhension passe derrière leur optimisation.

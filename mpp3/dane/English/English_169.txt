@@ -1,9 +1,0 @@
-Through iterative optimization of an objective function, supervised learning algorithms learn a function that can be used to predict the output associated with new inputs.
-
-[39] An optimal function will allow the algorithm to correctly determine the output for inputs that were not a part of the training data.
-
-An algorithm that improves the accuracy of its outputs or predictions over time is said to have learned to perform that task.
-
-[13] Types of supervised learning algorithms include active learning, classification and regression.
-
-[40] Classification algorithms are used when the outputs are restricted to a limited set of values, and regression algorithms are used when the outputs may have any numerical value within a range.

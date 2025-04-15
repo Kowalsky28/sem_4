@@ -1,9 +1,0 @@
-Foutieve informatie kan op deze manier snel over het internet worden verspreid.
-
-Critici van Wikipedia zien dit als een zorgelijke ontwikkeling.
-
-Automatisch leren of machinaal leren is een breed onderzoeksveld binnen kunstmatige intelligentie, dat zich bezighoudt met de ontwikkeling van algoritmes en technieken waarmee computers kunnen leren.
-
-De methodes zijn te verdelen in twee ruwe categorieën: aanleidinggevend en deductief.
-
-Aanleidinggevende methodes creëren computerprogramma's door het vormen van regels of het extraheren van patronen uit data.

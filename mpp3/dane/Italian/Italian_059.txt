@@ -1,9 +1,0 @@
-L'apprendimento automatico ha legami molto stretti con l'ottimizzazione: molti problemi di apprendimento sono formulati come la minimizzazione di una qualche funzione di costo su un insieme di esempi di apprendimento.
-
-La funzione di costo (o funzione di perdita) rappresenta la discrepanza tra le previsioni del modello che si sta addestrando e le istanze del problema reale.
-
-Le differenze tra i due campi (l'apprendimento automatico e l'ottimizzazione) sorgono dall'obiettivo della generalizzazione: mentre gli algoritmi di ottimizzazione possono minimizzare la perdita su un insieme di apprendimento, l'apprendimento automatico si preoccupa di minimizzare la perdita su campioni mai visti dalla macchina[28].
-
-La risoluzione automatica di problemi avviene, nel campo dell'informatica, in due modi differenti: tramite paradigmi di hard computing o tramite paradigmi di soft computing.
-
-Per hard computing si intende la risoluzione di un problema tramite l'esecuzione di un algoritmo ben definito e decidibile.

@@ -1,9 +1,0 @@
-), textes et illustrations comprises (la taille du fichier correspondant variant selon la version linguistique utilisée).
-
-Le projet Afripédia avait notamment fait usage de ce logiciel : dans les campus universitaires d'Afrique dont la liaison internet ne disposait pas d'un débit suffisant pour permettre de consulter Wikipédia en ligne, le projet visait à la mise à disposition d'ordinateurs plug équipés de bornes Wi-Fi et d'une copie locale de Wikipédia.
-
-Kiwix est également utilisé par la Human Rights Foundation en Corée du Nord, où la version coréenne de l'encyclopédie est introduite en contrebande par des dissidents[16].
-
-Depuis 2016, des applications mobiles contenant le corpus médical de l'encyclopédie ont également fait leur apparition sous Android, toujours grâce à Kiwix, sous le nom de WikiMed.
-
-Une autre manière de consulter Wikipédia hors ligne est d'utiliser les dumps (sauvegardes), qui sont disponibles en ligne et téléchargeables par tout un chacun.

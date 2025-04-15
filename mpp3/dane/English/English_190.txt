@@ -1,9 +1,0 @@
-Different layers may perform different kinds of transformations on their inputs.
-
-Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.
-
-The original goal of the ANN approach was to solve problems in the same way that a human brain would.
-
-However, over time, attention moved to performing specific tasks, leading to deviations from biology.
-
-Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.

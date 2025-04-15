@@ -1,9 +1,0 @@
-[47] Classic examples include principal components analysis and cluster analysis.
-
-Feature learning algorithms, also called representation learning algorithms, often attempt to preserve the information in their input but also transform it in a way that makes it useful, often as a pre-processing step before performing classification or predictions.
-
-This technique allows reconstruction of the inputs coming from the unknown data-generating distribution, while not being necessarily faithful to configurations that are implausible under that distribution.
-
-This replaces manual feature engineering, and allows a machine to both learn the features and use them to perform a specific task.
-
-Feature learning can be either supervised or unsupervised.

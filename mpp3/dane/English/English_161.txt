@@ -1,9 +1,0 @@
-It shifted focus away from the symbolic approaches it had inherited from AI, and toward methods and models borrowed from statistics and probability theory.
-
-[20] As of 2020, many sources continue to assert that machine learning remains a subfield of AI.
-
-[21][22][16] The main disagreement is whether all of ML is part of AI, as this would mean that anyone using ML could claim they are using AI.
-
-Others have the view that not all of ML is part of AI[23][24][25] where only an 'intelligent' subset of ML is part of AI.
-
-[26] The question to what is the difference between ML and AI is answered by Judea Pearl in The Book of Why.

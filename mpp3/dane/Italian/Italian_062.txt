@@ -1,9 +1,0 @@
-Ciò si pone in controtendenza con altri tipi di apprendimento automatico che normalmente identificano un singolo modello che può essere applicato universalmente ad ogni istanza per riuscire a fare su di essa una previsione[30].
-
-Gli approcci dell'apprendimento basato su regole di associazione includono il sistema immunitario artificiale.
-
-Una rete neurale artificiale è un sistema adattivo che cambia la sua struttura basata su informazioni esterne o interne che scorrono attraverso la rete durante la fase di apprendimento.
-
-In termini pratici le reti neurali sono strutture non-lineari di dati statistici organizzate come strumenti di modellazione.
-
-Esse possono essere utilizzate per simulare relazioni complesse tra ingressi e uscite che altre funzioni analitiche non riescono a rappresentare.

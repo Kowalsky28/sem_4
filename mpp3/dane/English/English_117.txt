@@ -1,9 +1,0 @@
-Several MediaWiki extensions are installed[232] to extend the functionality of the MediaWiki software.
-
-In April 2005, a Lucene extension[233][234] was added to MediaWiki's built-in search and Wikipedia switched from MySQL to Lucene for searching.
-
-The site currently uses Lucene Search 2.1,[235][needs update] which is written in Java and based on Lucene library 2.3.
-
-[236] In July 2013, after extensive beta testing, a WYSIWYG (What You See Is What You Get) extension, VisualEditor, was opened to public use.
-
-[237][238][239][240] It was met with much rejection and criticism, and was described as "slow and buggy".

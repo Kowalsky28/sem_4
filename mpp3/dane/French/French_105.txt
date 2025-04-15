@@ -1,9 +1,0 @@
-Nous allons aussi utiliser le mécanisme HTTP Strict Transport Security (HSTS) afin de se prémunir contre les efforts visant à casser le trafic HTTPS pour intercepter ensuite le trafic » annonce la Fondation, via son blog, qui poursuit, en dénonçant la surveillance de l'Internet : « Dans un monde où la surveillance de masse est devenue une menace sérieuse pour la liberté intellectuelle, les connexions sécurisées sont devenues essentielles pour protéger les utilisateurs tout autour du monde[139].
-
-» L'utilisation du protocole HTTPS s'étendra donc à Wikipédia et ses projets frères, afin de garantir un maximum de sécurité aux utilisateurs[137].
-
-La Turquie bloque l'accès à Wikipédia le 29 avril 2017 en raison de la présence d'articles évoquant la possible collaboration entre le gouvernement turc et des organisations jihadistes actives en Syrie[140].
-
-Le 26 décembre 2019, saisie par la fondation Wikimédia, la Cour constitutionnelle du pays juge que le blocage de Wikipédia constitue une « violation de la liberté d'expression ».
-
-Le blocage est levé le 15 janvier 2020, jour de la publication de l'arrêt complet de la cour au Journal officiel, soit 991 jours après le début du blocage.

@@ -1,9 +1,0 @@
-Bu durum bilgilerin herkes tarafından anında eklenebilmesine olanak verir.
-
-Bununla beraber üye olmanın, yapılan değişikliklerin kaydını tutabilmek, seçkin madde vb.
-
-oylamalarına katılmak, vandalizmle mücadeleyi kolaylaştırmak gibi avantajları vardır.
-
-Diğer İnternet ansiklopedi projelerinin çoğu üyelik gerektirir ve yalnızca uzmanların yazılarına izin vermektedir: Stanford Felsefe Ansiklopedisi, Nupedia, h2g2 ve Everything2 gibi.
-
-Bazı ansiklopediler de Vikipedi gibi Viki yazılımı kullanmaktadır.

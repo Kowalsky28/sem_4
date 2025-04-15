@@ -1,9 +1,0 @@
-[215] Em 2005 a Agence France-Presse citou Daniel Brandt, o proprietário do Wikipedia Watch, dizendo que "o problema básico é que ninguém, nem os administradores da Wikimedia Foundation, nem os voluntários que estão conectados com a Wikipédia, consideram-se responsáveis pelo seu conteúdo".
-
-[216] Em janeiro de 2006 um tribunal alemão ordenou o fechamento da Wikipédia em alemão na Alemanha por ter publicado o nome completo do Boris Floricic, também conhecido como "Tron", um hacker que era antigamente membro do Chaos Computer Club.
-
-Mais especificamente, o tribunal ordenou que a URL no domínio alemão.de (http://www.wikipedia.de/) não poderia redirecionar para servidores da enciclopédia na Flórida, em http://de.wikipedia.org, embora os leitores alemães ainda permanecessem capazes de usar a URL baseada nos EUA diretamente, e não houve praticamente nenhuma perda de acesso por parte deles.
-
-A ordem judicial surgiu de uma ação movida pelos pais Floricic, exigindo que o sobrenome de seu filho fosse retirado da Wikipédia.
-
-[217] Em 9 de fevereiro de 2006 a liminar contra a Wikimedia Deutschland foi anulada, com o juiz rejeitando a noção de que o direito de privacidade de Tron ou de seus pais estivesse sendo violado.

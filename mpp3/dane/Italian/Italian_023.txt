@@ -1,9 +1,0 @@
-Wikipedia perciò è anche la prima tra le grandi enciclopedie che permette a tutti di osservare il processo di sviluppo nel tempo di una voce e di verificare se, come e dove il contenuto è stato oggetto di controversie.
-
-Persino le cancellazioni e gli altri vandalismi che una pagina subisce sono di norma visibili a tutti.
-
-Tutti i punti di vista contestati, espressi in un dato momento e successivamente cancellati, rimangono consultabili e forniscono informazioni complementari sull'argomento di cui è oggetto la voce e sul suo grado di controversia, aggiungendovi inoltre la dimensione temporale.
-
-Oltre all'editor classico che utilizza un linguaggio di markup estremamente semplificato (ad es.
-
-molto più semplice dell'HTML) il software MediaWiki mette a disposizione anche un editor visuale, chiamato VisualEditor.

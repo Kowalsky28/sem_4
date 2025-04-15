@@ -1,9 +1,0 @@
-[134][135][136] Jimmy Wales has described Wikipedia as "an effort to create and distribute a free encyclopedia of the highest possible quality to every single person on the planet in their own language".
-
-[137] Though each language edition functions more or less independently, some efforts are made to supervise them all.
-
-They are coordinated in part by Meta-Wiki, the Wikimedia Foundation's wiki devoted to maintaining all its projects (Wikipedia and others).
-
-[138] For instance, Meta-Wiki provides important statistics on all language editions of Wikipedia,[139] and it maintains a list of articles every Wikipedia should have.
-
-[140] The list concerns basic content by subject: biography, history, geography, society, culture, science, technology, and mathematics.

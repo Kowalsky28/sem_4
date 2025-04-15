@@ -1,9 +1,0 @@
-Dans le cas de l’AA et les voitures autonomes, la question de la responsabilité en cas d’accident se pose.
-
-La société doit apporter une réponse à cette question, avec différentes approches possibles.
-
-Aux États-Unis, il existe la tendance à juger une technologie par la qualité du résultat qu’elle produit, alors qu’en Europe le principe de précaution est appliqué, et on y a plus tendance à juger une nouvelle technologie par rapport aux précédentes, en évaluant les différences par rapport à ce qui est déjà connu.
-
-Des processus d’évaluation de risques sont en cours en Europe et aux États-Unis[29].
-
-La question de responsabilité est d’autant plus compliquée que la priorité chez les concepteurs réside en la conception d’un algorithme optimal, et non pas de le comprendre.

@@ -1,9 +1,0 @@
-Wikipedia, infatti, è costruita sulla convinzione che la collaborazione tra gli utenti possa nel tempo migliorare le voci, più o meno nello stesso spirito con cui viene sviluppato il software libero.
-
-Nel caso del software, se è libero, chiunque può prelevarne i sorgenti, modificarli e ridistribuirli, eppure solitamente i programmatori si limitano a proporre alcune modifiche agli autori, i quali le adottano oppure no a loro insindacabile giudizio.
-
-Le voci sono sempre aperte alle modifiche (tranne quando vengono protette a tempo determinato a causa di vandalismi o edit war) e non si dichiara mai conclusa la stesura di una voce.
-
-Accade che alcuni utenti provino a inserire informazioni malevole o goliardiche, ma enciclopedicamente irrilevanti, che vengono generalmente rimosse prontamente da altri utenti.
-
-Questo tipo di modifiche è in gergo chiamato vandalismo.

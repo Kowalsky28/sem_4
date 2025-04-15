@@ -1,9 +1,0 @@
-Un contributeur est classé « actif » tant qu'il fait au moins cinq modifications par mois.
-
-Depuis 2007, le nombre de contributeurs actifs sur l'ensemble des versions linguistiques de Wikipédia a presque été divisé par deux[58].
-
-Un rédacteur peut être identifié par son adresse IP, ou par son pseudonyme s'il l'a enregistré sur le site.
-
-Plus de 85 millions d'éditeurs ont créé leur compte, 300 000 étant considérés comme actifs[59].
-
-Au sein de Wikipédia, les comptes utilisateurs disposent de différents statuts techniques gérés par le logiciel MediaWiki et contrôlant les actions qui leur sont permises[x].

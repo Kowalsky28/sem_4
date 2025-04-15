@@ -1,9 +1,0 @@
-[37] Wikipedia är även tillgängligt via spelkonsoler som Playstation 3, Nintendo Wii och Xbox 360.
-
-Där kan man ladda ner databasdumpar av åtminstone engelskspråkiga Wikipedia, men det är då den vanliga webbversionen av uppslagsverket och ingen speciellt utvecklad version.
-
-Wikipedia är i regel fritt tillgänglig i alla delar av världen där man har fri tillgång till internet.
-
-Wikipedia censurerar inte sig själv från provocerande eller stötande material, men modereras genom konsensusbeslut baserat på sin egen raderingspolicy.
-
-Dock är stiftelsen Wikimedia Foundation skyldiga att efter en tid radera innehåll som bryter mot amerikansk lag, eftersom servrarna är placerade där, nämligen upphovsrättsbrott, förtal, avslöjande av personuppgifter och brott mot barnskyddslagstiftning.

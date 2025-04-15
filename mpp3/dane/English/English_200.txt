@@ -1,9 +1,0 @@
-[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.
-
-[87][88] Machine learning has been used as a strategy to update the evidence related to systematic review and increased reviewer burden related to the growth of biomedical literature.
-
-While it has improved with training sets, it has not yet developed sufficiently to reduce the workload burden without limiting the necessary sensitivity for the findings research themselves.
-
-[89] Machine learning approaches in particular can suffer from different data biases.
-
-A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data.

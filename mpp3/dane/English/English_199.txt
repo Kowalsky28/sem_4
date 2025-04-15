@@ -1,9 +1,0 @@
-[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.
-
-[80] In 2019 Springer Nature published the first research book created using machine learning.
-
-[81] Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.
-
-[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.
-
-[85] In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.

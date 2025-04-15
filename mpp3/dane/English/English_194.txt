@@ -1,9 +1,0 @@
-The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression.
-
-When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.
-
-A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG).
-
-For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms.
-
-Given symptoms, the network can be used to compute the probabilities of the presence of various diseases.

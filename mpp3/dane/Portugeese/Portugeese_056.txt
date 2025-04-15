@@ -1,9 +1,0 @@
-Atualmente grande parte da carga de tráfego da Wikipédia é suportada por dois clusters maiores nos Países Baixos e na Coreia do Sul.
-
-[155] Em sua ideia original, a Wikipédia tinha sido feita para que usuários a lessem e editassem o conteúdo utilizando qualquer navegador de web padrão através de uma conexão de internet fixa.
-
-No entanto, o conteúdo da Wikipédia está agora também acessível através da web móvel.
-
-O acesso à Wikipédia partir de telefones móveis foi possível, já em 2004, através do Wireless Application Protocol (WAP), através do serviço Wapedia.
-
-Em junho de 2007, a Wikipédia lançou o pt.mobile.wikipedia.org, um site oficial para dispositivos sem fio.

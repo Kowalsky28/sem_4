@@ -1,9 +1,0 @@
-Bilder och andra mediafiler lagras i allmänhet i filarkivet Wikimedia Commons, som är gemensam för alla Wikimedia-projekten, och kan användas också av utomstående.
-
-En del projekt, såsom finsk- och engelskspråkiga Wikipedia, har dessutom egna filer som inte kan användas i andra projekt; medan innehåll på Commons förutsätts vara fritt, tillåts i dessa projekt även proprietär media på basen av fair use (återgivningsrätt).
-
-Länkar mellan språkversionerna (språklänkar eller interwikilänkar) lagras sedan 2013 centralt på databasen Wikidata istället för att läggas in med wikikod i varje språkversion av varje artikel.
-
-På Wikidata kan även siffror, namn och annan kvantitativ data (motsats till löpande text) lagras gemensamt för alla språkversioner.
-
-Data som är gemensamma för många språkversioner behöver på så sätt bara uppdateras på ett ställe.

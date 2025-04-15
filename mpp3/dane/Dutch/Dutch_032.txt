@@ -1,9 +1,0 @@
-Deductieve methoden hebben als resultaat een functie die net zo generiek is als de invoerdata.
-
-Automatisch leren is sterk gerelateerd aan statistiek, aangezien beide velden de studie van data analyseren.
-
-Automatisch leren is meer gericht op de algoritmische complexiteit of de implementatie in programma's.
-
-Het is ook gerelateerd aan datamining, waarin op een geautomatiseerde manier patronen en relaties worden gezocht in grote hoeveelheden gegevens.
-
-Veel leerproblemen zijn NP-hard of moeilijker, dus een belangrijk onderdeel van dit vakgebied is algoritmes te ontwikkelen die de oplossing benaderen.

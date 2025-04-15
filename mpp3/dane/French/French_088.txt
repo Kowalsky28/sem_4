@@ -1,9 +1,0 @@
-Les serveurs sont organisés en trois couches : Plusieurs sites web, comme Ganglia[af], permettent de consulter diverses informations sur le fonctionnement des serveurs, notamment la charge des processeurs, la mémoire occupée… Une description précise de l'architecture des serveurs est difficile, car elle change très fréquemment en raison des améliorations régulièrement apportées pour répondre au très fort trafic engendré par la consultation de Wikipédia.
-
-Cet aspect de Wikipédia est géré par le personnel technique de la Wikimedia Foundation.
-
-La Wikimedia Foundation possède les différentes marques (Wikipedia, Wikimedia…), les serveurs, les sites web, et agit comme hébergeur web.
-
-Des associations nationales, ayant pour but de promouvoir Wikipédia et le libre partage des connaissances, existent dans plusieurs pays.
-
-Elles reprennent généralement l'intitulé « Wikimedia » (Wikimédia Belgique, Wikimédia France[ag], Wikimédia Suisse[ah], etc.).

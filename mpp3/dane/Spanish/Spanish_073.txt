@@ -1,9 +1,0 @@
-Los primeros tratan de dividir el espacio de instancias en grupos.
-
-Los segundos, como su nombre lo indican, representan un gradiente en el que se puede diferenciar entre cada instancia.
-
-Clasificadores geométricos como las máquinas de vectores de apoyo son modelos de gradientes.
-
-Los diferentes algoritmos de Aprendizaje Automático se agrupan en una taxonomía en función de la salida de los mismos.
-
-Algunos tipos de algoritmos son: El análisis computacional y de rendimiento de los algoritmos de aprendizaje automático es una rama de la estadística conocida como teoría computacional del aprendizaje.

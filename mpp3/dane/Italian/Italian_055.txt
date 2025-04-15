@@ -1,9 +1,0 @@
-Affinché la generalizzazione offra le migliori prestazioni possibili, la complessità dell'ipotesi induttiva deve essere pari alla complessità della funzione sottostante i dati.
-
-Se l'ipotesi è meno complessa della funzione, allora il modello manifesta underfitting.
-
-Quando la complessità del modello viene aumentata in risposta, allora l'errore di apprendimento diminuisce.
-
-Al contrario invece se l'ipotesi è troppo complessa, allora il modello manifesta overfitting e la generalizzazione sarà più scarsa[19].
-
-Oltre ai limiti di prestazioni, i teorici dell'apprendimento studiano la complessità temporale e la fattibilità dell'apprendimento stesso.

@@ -1,9 +1,0 @@
-[146]​[147]​[148]​[149]​ La característica se cambió a predeterminada después.
-
-Wikipedia actualmente se ejecuta en grupos dedicados de servidores Linux (principalmente Ubuntu).
-
-[150]​[151]​ A diciembre de 2009, había 300 en Florida y 44 en Ámsterdam.
-
-[152]​ Para el 22 de enero de 2013, Wikipedia había migrado su centro de datos primario a una instalación de Equinix en Ashburn, Virginia.
-
-[153]​[154]​ En 2017, Wikipedia había instalado un clúster de almacenamiento en caché en una instalación de Equinix en Singapur, la primera de su tipo en Asia.

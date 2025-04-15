@@ -1,9 +1,0 @@
-Diğer ansiklopedilerden farklı olarak, Vikipedi GNU Özgür Belgeleme Lisansı (GÖBL) kullanmaktadır.
-
-Vikipedi'ye yazılan bilgilerin uygunluğu konusunda bazı kurallar mevcuttur.
-
-Bilgiler tartışılır, değerlendirilir ve içeriğe eklenmesi, değiştirilmesi veya Vikisözlük gibi kardeş bir projeye transfer olması üzerine kararlar alınır.
-
-Vikipedi'nin ana kurallarından biri maddelerin tarafsız bir şekilde, kaynaklarıyla birlikte, olumlu ya da olumsuz tüm yönleriyle sunulması gerektiğidir.
-
-Vikipedi, maddeleri tamamen objektif ve doğru bir şekilde sunmaya ve her türlü bakış açısını yansıtmaya çalışır.

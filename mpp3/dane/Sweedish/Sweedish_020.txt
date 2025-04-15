@@ -1,9 +1,0 @@
-Wikidata lagrar därför data på ett strukturerat sätt, tillsammans med semantisk information som beskriver datats betydelse och relationer (Exempel: Stockholm -> är en instans av -> huvudstad, Stockholm -> tillhör den administrativa enheten -> Stockholms län, Stockholm -> grundades -> 1187).
-
-[30] Wikipedias ursprungliga användargränssnitt kallas dess stationära vy och är utformat för webbläsare på persondatorer, exempelvis stationära datorer, med relativt stora skärmar.
-
-Idag kan Wikipediasidor även läsas och redigeras från handhållna enheter såsom mobiltelefoner.
-
-Redan 2004 möjliggjorde Wapediatjänsten tillgång från mobiltelefoner via så kallade WAP-sidor (webbliknande teknik avsedd för mobiltelefoner med piltangenter och små skärmar).
-
-År 2006[31] och 2007 lanserades mobilanpassade Wikipedia-webbgränssnitt[32] avsedda för mobila plattformar med enkla webbläsare.

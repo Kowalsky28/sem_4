@@ -1,9 +1,0 @@
-[6] The discipline of machine learning employs various approaches to teach computers to accomplish tasks where no fully satisfactory algorithm is available.
-
-In cases where vast numbers of potential answers exist, one approach is to label some of the correct answers as valid.
-
-This can then be used as training data for the computer to improve the algorithm(s) it uses to determine correct answers.
-
-For example, to train a system for the task of digital character recognition, the MNIST dataset of handwritten digits has often been used.
-
-[6] Machine learning approaches are traditionally divided into three broad categories, depending on the nature of the "signal" or "feedback" available to the learning system: Other approaches have been developed which don't fit neatly into this three-fold categorisation, and sometimes more than one is used by the same machine learning system.

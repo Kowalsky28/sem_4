@@ -1,9 +1,0 @@
-Trained models derived from biased data can result in skewed or undesired predictions.
-
-Algorithmic bias is a potential result from data not fully prepared for training.
-
-Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server.
-
-This also increases efficiency by decentralizing the training process to many devices.
-
-For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.

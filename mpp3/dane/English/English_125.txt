@@ -1,9 +1,0 @@
-[263] Because the two licenses, GFDL and Creative Commons, were incompatible, in November 2008, following the request of the project, the Free Software Foundation (FSF) released a new version of the GFDL designed specifically to allow Wikipedia to relicense its content to CC BY-SA by August 1, 2009.
-
-(A new version of the GFDL automatically covers Wikipedia contents.)
-
-In April 2009, Wikipedia and its sister projects held a community-wide referendum which decided the switch in June 2009.
-
-[264][265][266][267] The handling of media files (e.g.
-
-image files) varies across language editions.

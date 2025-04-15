@@ -1,9 +1,0 @@
-Wikipedia använder sig av den fria wikiprogramvaran MediaWiki som är licensierad under GNU General Public License (GPL).
-
-Från början använde Wikipedia en annan wikiprogramvara, UseModWiki, som också är licensierad under GPL.
-
-Serverklustren finns (sedan januari 2013) i delstaten Virginia och har även speglade data i casheservrar i datacenter i Amsterdam som bland annat betjänar Europa, i Singapore för Asien samt i San Francisco och Texas för Amerika.
-
-Tillsammans konsumerar de 2 GWh energi per år (år 2016), vilket motsvarar 700 tyska hushålls årsförbrukning.
-
-[23] Wikipedias webbsidor kan delas in i ett antal typer eller namnrymder, där de vanligaste är: För var och en av dessa sidor finns dessutom en diskussionssida, där främst sidans utformning (men inte dess ämne) diskuteras.

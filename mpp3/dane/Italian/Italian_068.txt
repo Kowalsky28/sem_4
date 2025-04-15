@@ -1,9 +1,0 @@
-Ad esempio, algoritmi di apprendimento basati su alberi di decisione sono stati usati dalla NASA per classificare oggetti celesti a partire dal secondo Palomar Observatory Sky Survey[34].
-
-Questo sistema è oggi utilizzato per classificare automaticamente tutti gli oggetti nel Sky Survey, che si compone di tre terabyte di dati immagine.
-
-I programmi per computer di maggior successo per il gioco del backgammon sono basati su algoritmi di apprendimento.
-
-Ad esempio, il miglior programma di computer al mondo per backgammon, TD-Gammon[35], ha sviluppato la sua strategia giocando oltre un milione di partite di prova contro se stesso.
-
-Tecniche simili hanno applicazioni in molti problemi pratici in cui gli spazi di ricerca molto rilevanti devono essere esaminati in modo efficiente.

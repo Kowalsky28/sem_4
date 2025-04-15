@@ -1,9 +1,0 @@
-Una red bayesiana puede representar, por ejemplo, las relaciones probabilísticas entre enfermedades y síntomas.
-
-Dados ciertos síntomas, la red puede usarse para calcular las probabilidades de que ciertas enfermedades estén presentes en un organismo.
-
-Hay algoritmos eficientes que infieren y aprenden usando este tipo de representación.
-
-En el aprendizaje automático podemos obtener 3 tipos de conocimiento, que son: Los tres tipos se efectúan durante un proceso de aprendizaje automático pero la importancia de cada tipo de conocimiento depende de las características de lo que se está tratando de aprender.
-
-El aprendizaje es más que una necesidad, es un factor primordial para satisfacer las necesidades de la inteligencia artificial.

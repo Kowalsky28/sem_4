@@ -1,9 +1,0 @@
-Projektet kører på mange dedikerede servere, der er placeret i Florida, USA og tre andre steder i verden.
-
-Disse servere er ansvarlige for Wikipedia på alle sprog og for postlisterne.
-
-Wikipedia modtager mellem 2000-7000 sidevisninger per sekund.
-
-Over 200 servere er blevet sat op for i fællesskab at kunne håndtere den enorme mængde trafik.
-
-Mobile enheder kan tilgå de mobile udgaver af Wikipedia.

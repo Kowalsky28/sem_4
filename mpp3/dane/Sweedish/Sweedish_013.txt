@@ -1,9 +1,0 @@
-Källhänvisning till Wikipedia måste vara tillräckligt exakt, så att läsare själv kan hitta artikeln och se artikelns författare i artikelhistoriken.
-
-Accessdatum är viktigt, eftersom Wikipediaartiklar förändras.
-
-Källförteckningens källbeskrivning kan exempelvis utformas enligt följande om man använder Harvardsystemet som referenssystem:[22] Vid IEEE- och Vancouversystemet kan källbeskrivning formateras enligt följande (om källan är nummer 2 i källförteckningen): Enligt Oxfordsystemet kan samma källbeskrivning utformas: Alla versioner av sidorna på Wikipedia sparas.
-
-Därmed är det möjligt att länka till just den version av en artikel man använt.
-
-En länk till arkivversionen tillhandahålls i artiklarnas vänstermarginal.

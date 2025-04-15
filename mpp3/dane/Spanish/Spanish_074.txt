@@ -1,9 +1,0 @@
-El aprendizaje automático las personas lo llevamos a cabo de manera automática ya que es un proceso tan sencillo para nosotros que ni nos damos cuenta de cómo se realiza y todo lo que implica.
-
-Desde que nacemos hasta que morimos los seres humanos llevamos a cabo diferentes procesos, entre ellos encontramos el de aprendizaje por medio del cual adquirimos conocimientos, desarrollamos habilidades para analizar y evaluar a través de métodos y técnicas así como también por medio de la experiencia propia.
-
-Sin embargo, a las máquinas hay que indicarles cómo aprender, ya que si no se logra que una máquina sea capaz de desarrollar sus habilidades, el proceso de aprendizaje no se estará llevando a cabo, sino que solo será una secuencia repetitiva.
-
-Este tipo de aprendizaje usa un árbol de decisiones como modelo predictivo.
-
-Se mapean observaciones sobre un objeto con conclusiones sobre el valor final de dicho objeto.

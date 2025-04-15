@@ -1,9 +1,0 @@
-Bland annat kunde de visa att antalet artikelredigeringar påverkade väldigt lite, men att policy- och projektredigeringar höjde chanserna från 1,8 % till 17-19 % per 1 000 redigeringar.
-
-De visade även att aktivitet i inom olika områden och att skriva redigeringssammanfattningar ökade chanserna att bli vald, medan medverkan i medlingsärenden över lag sänkte chanserna.
-
-Modellen använde dock rätt trubbiga mått på aktiviteten och forskarna konstaterar att man bör analysera vad administratörerna gör mer exakt.
-
-Forskarna påpekar själva att modellen inte tar vara på kvalitén i redigeringarna utan bara utgår från kvantiteten, men den har ändå visat sig kunna förutsäga 74,8 % av valresultaten.
-
-Några exempel på faktorer: (Värden inom parentes är inte statistiskt säkerställda) I studien The Work of Sustaining Order in Wikipedia: The Banning of a Vandal[98] undersöks hur automatiserade och halvautomatiserade verktyg i kombination med samarbete bekämpar vandalism.

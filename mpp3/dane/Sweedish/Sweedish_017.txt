@@ -1,9 +1,0 @@
-Wikikod används även för att skapa mallar med innehåll som kan återanvändas i flera olika artiklar, och vars utformning kan anpassas med hjälp av olika parametrar.
-
-Mer komplicerad kodning av artiklar och mallar kan även göras i märkspråken html (för avancerad layout) och TeX (för matematiska formler och notskrift) samt programspråket Lua (för att skapa programmoduler som kan användas i avancerade mallar, och som körs på Mediawikiservern).
-
-Inloggade användare kan anpassa sitt användargränssnitt genom att välja mellan olika skal (stilmallar), och genom att aktivera olika finesser (program skrivna i språket Javascript).
-
-Finesser lagras på Mediawikiservern men körs lokalt i användarens webbläsare.
-
-Mediawikiprogramvaran är skriven i PHP.

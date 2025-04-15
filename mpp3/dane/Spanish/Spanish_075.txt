@@ -1,9 +1,0 @@
-Los árboles son estructuras básicas en la informática.
-
-Los árboles de atributos son la base de las decisiones.
-
-Una de las dos formas principales de árboles de decisiones es la desarrollada por Quinlan de medir la impureza de la entropía en cada rama, algo que primero desarrolló en el algoritmo ID3 y luego en el C4.5.
-
-Otra de las estrategias se basa en el índice GINI y fue desarrollada por Breiman, Friedman et alia.
-
-El algoritmo de CART es una implementación de esta estrategia.

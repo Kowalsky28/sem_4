@@ -1,9 +1,0 @@
-[55] In data mining, anomaly detection, also known as outlier detection, is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data.
-
-[56] Typically, the anomalous items represent an issue such as bank fraud, a structural defect, medical problems or errors in a text.
-
-Anomalies are referred to as outliers, novelties, noise, deviations and exceptions.
-
-[57] In particular, in the context of abuse and network intrusion detection, the interesting objects are often not rare objects, but unexpected bursts of inactivity.
-
-This pattern does not adhere to the common statistical definition of an outlier as a rare object, and many outlier detection methods (in particular, unsupervised algorithms) will fail on such data unless it has been aggregated appropriately.

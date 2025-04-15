@@ -1,9 +1,0 @@
-[68] Under this system, new and unregistered users' edits to certain controversial or vandalism-prone articles are reviewed by established users before they are published.
-
-[69] Although changes are not systematically reviewed, the software that powers Wikipedia provides tools allowing anyone to review changes made by others.
-
-The "History" page of each article links to each revision.
-
-[note 4][70] On most articles, anyone can undo others' changes by clicking a link on the article's history page.
-
-Anyone can view the latest changes to articles, and anyone may maintain a "watchlist" of articles that interest them so they can be notified of any changes.

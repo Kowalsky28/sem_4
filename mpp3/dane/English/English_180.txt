@@ -1,9 +1,0 @@
-Sparse dictionary learning has been applied in several contexts.
-
-In classification, the problem is to determine the class to which a previously unseen training example belongs.
-
-For a dictionary where each class has already been built, a new training example is associated with the class that is best sparsely represented by the corresponding dictionary.
-
-Sparse dictionary learning has also been applied in image de-noising.
-
-The key idea is that a clean image patch can be sparsely represented by an image dictionary, but the noise cannot.
