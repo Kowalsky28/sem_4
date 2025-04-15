@@ -1,0 +1,9 @@
+Machine learning also has intimate ties to optimization: many learning problems are formulated as minimization of some loss function on a training set of examples.
+
+Loss functions express the discrepancy between the predictions of the model being trained and the actual problem instances (for example, in classification, one wants to assign a label to instances, and models are trained to correctly predict the pre-assigned labels of a set of examples).
+
+[31] The difference between optimization and machine learning arises from the goal of generalization: while optimization algorithms can minimize the loss on a training set, machine learning is concerned with minimizing the loss on unseen samples.
+
+Characterizing the generalization of various learning algorithms is an active topic of current research, especially for deep learning algorithms.
+
+Machine learning and statistics are closely related fields in terms of methods, but distinct in their principal goal: statistics draws population inferences from a sample, while machine learning finds generalizable predictive patterns.

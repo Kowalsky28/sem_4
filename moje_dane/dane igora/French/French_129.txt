@@ -1,0 +1,9 @@
+L’interprétabilité des algorithmes est nécessaire pour en comprendre les décisions, notamment lorsque ces décisions ont un impact profond sur la vie des individus.
+
+Cette notion d’interprétabilité, c’est-à-dire de la capacité de comprendre pourquoi et comment un algorithme agit, est aussi sujette à interprétation.
+
+La question de l’accessibilité des données est sujette à controverse : dans le cas des voitures autonomes, certains défendent l’accès public aux données, ce qui permettrait un meilleur apprentissage aux algorithmes et ne concentrerait pas cet « or numérique » dans les mains d’une poignée d’individus, de plus d’autres militent pour la privatisation des données au nom du libre marché, sans négliger le fait que des bonnes données constituent un avantage compétitif et donc économique[29],[31].
+
+Dans les années 2000-2010, l'apprentissage automatique est encore une technologie émergente, mais polyvalente, qui est par nature théoriquement capable d'accélérer le rythme de l'automatisation et de l'autoaprentissage lui-même.
+
+Combiné à l'apparition de nouveaux moyens de produire, stocker et faire circuler l'énergie, ainsi qu'à l'informatique ubiquiste, il pourrait bouleverser les technologies et la société (comme l'ont fait la machine à vapeur et l'électricité, puis le pétrole et l'informatique lors des révolutions industrielles précédentes.

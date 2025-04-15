@@ -1,0 +1,9 @@
+TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).
+
+[102] Machine learning poses a host of ethical questions.
+
+Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.
+
+[103] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.
+
+[104][105] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.

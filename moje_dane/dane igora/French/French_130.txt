@@ -1,0 +1,9 @@
+L'apprentissage automatique pourrait générer des innovations et des capacités inattendues, mais avec un risque selon certains observateurs de perte de maitrise de la part des humains sur de nombreuses tâches qu'ils ne pourront plus comprendre et qui seront faites en routine par des entités informatiques et robotisées.
+
+Ceci laisse envisager des impacts spécifiques complexes et encore impossibles à évaluer sur l'emploi, le travail et plus largement l'économie et les inégalités.
+
+Selon le journal Science fin 2017 : « Les effets sur l'emploi sont plus complexes que la simple question du remplacement et des substitutions soulignées par certains.
+
+Bien que les effets économiques du BA soient relativement limités aujourd'hui et que nous ne soyons pas confrontés à une « fin du travail » imminente comme cela est parfois proclamé, les implications pour l'économie et la main-d'œuvre sont profondes »[32].
+
+Il est tentant de s'inspirer des êtres vivants sans les copier naïvement[33] pour concevoir des machines capables d'apprendre.

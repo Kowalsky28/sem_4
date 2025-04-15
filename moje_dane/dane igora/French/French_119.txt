@@ -1,0 +1,9 @@
+En 1943, le neurophysiologiste Warren McCulloch et le mathématicien Walter Pitts publient un article décrivant le fonctionnement de neurones en les représentant à l'aide de circuits électriques.
+
+Cette représentation sera la base théorique des réseaux neuronaux[6].
+
+Arthur Samuel, informaticien américain pionnier dans le secteur de l'intelligence artificielle, est le premier à faire usage de l'expression machine learning (en français, « apprentissage automatique ») en 1959 à la suite de la création de son programme pour IBM en 1952.
+
+Le programme jouait au Jeu de Dames et s'améliorait en jouant.
+
+À terme, il parvint à battre le 4e meilleur joueur des États-Unis[7],[8].

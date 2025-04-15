@@ -1,0 +1,9 @@
+O software incorpora recursos de programação como uma macrolinguagem, variáveis, um sistema de transclusão de templates e redirecionamento de URLs.
+
+O MediaWiki está licenciado sob a GNU General Public License e é usado por todos os projetos da Wikimedia, assim como muitos outros projetos wiki.
+
+Originalmente, a Wikipédia funcionava com o UseModWiki escrito em Perl por Clifford Adams (primeira fase), que inicialmente requeria hiperligações nos artigos por meio do CamelCase; o estilo atual de faixa dupla só foi incorporado mais tarde.
+
+[144] A partir de janeiro de 2002 (segunda fase), a Wikipédia passou a contar com um software escrito em PHP wiki, por meio de um banco de dados MySQL, feito sob medida para a Wikipédia por Magnus Manske.
+
+Nessa fase, o software foi modificado várias vezes, para acomodar a demanda exponencialmente crescente.

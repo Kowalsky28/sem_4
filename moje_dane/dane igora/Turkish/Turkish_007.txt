@@ -1,0 +1,9 @@
+Bu sebeple Vikipedi'deki maddeler GÖBL ile yazılmakta ve her yazar telif haklarından vazgeçmektedir.
+
+GÖBL, birçok telifi özgür bırakılmış lisans gibi, yazılanın dağıtılmasına, benzeri dokümanların çıkmasına ve kâr amaçlı kullanıma izin verir.
+
+Bu lisans ayrıca yeniden katılım gösterenlerin aynı lisans ile değişiklikler yapmasına izin verir.
+
+Özgür görünmesine rağmen bilgiyi yazan kişi telif hakkına sahiptir, ancak diğer insanların bu bilgilerden yararlanmasına ve geliştirmesine izin vermektedir.
+
+Katılımcılar birden fazla lisansı içeriklerinde kullanabilirler ya da kamu malı olarak ilan edebilirler.

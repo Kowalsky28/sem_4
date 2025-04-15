@@ -1,0 +1,9 @@
+Deep learning consists of multiple hidden layers in an artificial neural network.
+
+This approach tries to model the way the human brain processes light and sound into vision and hearing.
+
+Some successful applications of deep learning are computer vision and speech recognition.
+
+[68] Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves).
+
+It is one of the predictive modeling approaches used in statistics, data mining, and machine learning.

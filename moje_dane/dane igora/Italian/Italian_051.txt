@@ -1,0 +1,9 @@
+Lo studio dell'apprendimento simbolico e knowledge-based continuò nell'ambito dell'IA, portando a sviluppare la programmazione logica induttiva, ma ora la ricerca più prettamente statistica si svolgeva al di fuori del campo vero e proprio dell'intelligenza artificiale, nel riconoscimento di pattern e nell'information retrieval[10].
+
+Un altro motivo per cui lo studio dell'apprendimento automatico fu abbandonato fu la pubblicazione del libro Perceptrons: an introduction to computational geometry di Marvin Minsky e Seymour Papert, che vi descrivevano alcune delle limitazioni dei percettroni e delle reti neurali.
+
+La ricerca sulle reti neurali subì un significativo rallentamento a causa dell'interpretazione del libro, che le descriveva come intrinsecamente limitate[13][14].
+
+Anche la linea di ricerca sulle reti neurali continuò al di fuori del campo dell'IA, portata avanti da ricercatori provenienti da altre discipline quali Hopfield, Rumelhart, Hinton e Fukushima.
+
+Il loro successo principale fu a metà degli anni '80 con la riscoperta della backpropagation[10] e della self-organization[15].

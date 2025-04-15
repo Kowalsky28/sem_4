@@ -1,0 +1,10 @@
+The evolvement of AI systems raises a lot questions in the realm of ethics and morality.
+
+AI can be well equipped in making decisions in certain fields such technical and scientific which rely
+heavily on data and historical information.
+
+These decisions rely on objectivity and logical reasoning.
+
+[106] Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.
+
+[107][108] Other forms of ethical challenges, not related to personal biases, are more seen in health care.

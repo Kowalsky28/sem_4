@@ -1,0 +1,9 @@
+[123] Na prática, a Wikipédia é defendida de ataques por vários sistemas e técnicas.
+
+Estes incluem páginas onde os usuários podem verificar edições (por exemplo, "páginas vigiadas" e "mudanças recentes"), programas de computador ("bots"), que são cuidadosamente projetados para tentar detectar ataques e corrigi-los automaticamente (ou semi-automaticamente), filtros que avisam os usuários sobre fazer indesejáveis edições, bloqueios sobre a criação de links para sites em particular e bloqueios de edições de contas específicas, endereços de IP ou intervalos de endereços.
+
+Páginas fortemente atacadas, artigos em particular, podem ser semiprotegidos de modo que apenas usuários registrados estabelecidos possam editá-los, ou para casos particularmente controversos, bloqueios podem ser usados para que apenas os administradores sejam capazes de fazer edições.
+
+Tal bloqueio é aplicado com moderação, geralmente apenas por curtos períodos de tempo, enquanto os ataques parecerem propensos a continuar.
+
+Em 8 de agosto de 2014, uma matéria do portal de O Globo[124] afirmou que um dispositivo conectado à internet através da rede sem fio do Palácio do Planalto alterou, em maio de 2013, informações das páginas de Miriam e Carlos Alberto Sardenberg na Wikipédia, com o objetivo de difamá-los.

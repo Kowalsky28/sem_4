@@ -1,0 +1,9 @@
+[20] L'apprendimento automatico e la statistica sono discipline strettamente collegate.
+
+Secondo Michael I. Jordan, le idee dell'apprendimento automatico, dai principi metodologici agli strumenti teorici, sono stati sviluppati prima in statistica[22].
+
+Jordan ha anche suggerito il termine data science come nome con cui chiamare l'intero campo di studi[22].
+
+Leo Breiman ha distinto due paradigmi statistici di modellazione: modello basato sui dati e modello basato sugli algoritmi[23], dove "modello basato sugli algoritmi" indica approssimativamente algoritmi di apprendimento automatico come la foresta casuale.
+
+Alcuni statistici hanno adottato metodi provenienti dall'apprendimento automatico, il che ha portato alla creazione di una disciplina combinata chiamata "apprendimento statistico"[24].

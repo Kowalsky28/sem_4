@@ -1,0 +1,9 @@
+Il peut s’avérer difficile de contrôler l’intégrité des jeux de données, notamment dans le cas de données générées par les réseaux sociaux[26].
+
+La qualité des « décisions » prises par un algorithme d’AA dépend non seulement de la qualité (donc de leur homogénéité, fiabilité, etc.)
+
+des données utilisées pour l’entrainement mais surtout de leur quantité.
+
+Donc, pour un jeu de données sociales collecté sans attention particulière à la représentation des minorités, l’AA est statistiquement injuste vis-à-vis de celles-ci.
+
+En effet, la capacité à prendre de « bonnes » décisions dépend de la taille des données, or celle-ci sera proportionnellement inférieure pour les minorités.

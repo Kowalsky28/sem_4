@@ -1,0 +1,9 @@
+Algunos sistemas de aprendizaje automático intentan eliminar toda necesidad de intuición o conocimiento experto de los procesos de análisis de datos, mientras otros tratan de establecer un marco de colaboración entre el experto y la computadora.
+
+De todas formas, la intuición humana no puede ser reemplazada en su totalidad, ya que el diseñador del sistema ha de especificar la forma de representación de los datos y los métodos de manipulación y caracterización de los mismos.
+
+Sin embargo, las computadoras son utilizadas por todo el mundo con fines tecnológicos muy buenos.
+
+El aprendizaje automático tiene como resultado un modelo para resolver una tarea dada.
+
+Entre los modelos se distinguen[3]​ Los modelos pueden también clasificarse como modelos de agrupamiento y modelos de gradiente.

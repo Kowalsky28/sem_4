@@ -1,0 +1,9 @@
+L'apprentissage automatique peut être appliqué à différents types de données, tels des graphes, des arbres, des courbes, ou plus simplement des vecteurs de caractéristiques, qui peuvent être continues ou discrètes.
+
+Depuis l'antiquité, le sujet des machines pensantes préoccupe les esprits.
+
+Ce concept est la base de pensées pour ce qui deviendra ensuite l'intelligence artificielle, ainsi qu'une de ses sous-branches : l'apprentissage automatique.
+
+La concrétisation de cette idée est principalement due à Alan Turing (mathématicien et cryptologue britannique) et à son concept de la « machine universelle » en 1936[4], qui est à la base des ordinateurs d'aujourd'hui.
+
+Il continuera à poser les bases de l'apprentissage automatique, avec son article sur « L'ordinateur et l'intelligence » en 1950[5], dans lequel il développe, entre autres, le test de Turing.

@@ -1,0 +1,9 @@
+Administratörerna kan också hindra anonyma användare, eller icke-administratörer, från redigering av sidor som ofta är föremål för attacker eller konflikter.
+
+Gemenskapen poängterar att administratörerna inte skall tillmätas större auktoritet i sak, utan endast stödja själva processen.
+
+Flera stora Wikipediaversioner, dock ej den svenska, har infört moderering genom funktionen flagged revisions, alltså att ändringar som görs av nya eller icke inloggade användare inte visas omedelbart för icke inloggade besökare utan fördröjs tills någon tillförlitlig etablerad användare har granskat och godkänt dem.
+
+[45] Innehållet i Wikipedia omfattas av juridiska skäl av lagstiftningen (särskilt lagen om upphovsrätt) i Virginia där Wikipedias servrar[b] numera befinner sig.
+
+Utöver detta är Wikipedias redaktionella principer sammanfattade i de så kallade "fem pelarna", och många policyer och riktlinjer syftar till att utforma innehållet på lämpligt sätt.

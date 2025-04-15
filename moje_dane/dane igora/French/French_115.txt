@@ -1,0 +1,9 @@
+La Fondation Wikimedia a aussi décidé de réaliser chaque année une étude sur ses impacts environnementaux[168].
+
+Sur les autres projets Wikimedia : modifier - modifier le code - modifier Wikidata L'apprentissage automatique[1],[2] (en anglais : machine learning, litt.
+
+« apprentissage machine[1],[2] »), apprentissage artificiel[1] ou apprentissage statistique est un  champ d'étude de l'intelligence artificielle qui se fonde sur des approches mathématiques et statistiques pour donner aux ordinateurs la capacité d'« apprendre » à partir de données, c'est-à-dire d'améliorer leurs performances à résoudre des tâches sans être explicitement programmés pour chacune.
+
+Plus largement, il concerne la conception, l'analyse, l'optimisation, le développement et l'implémentation de telles méthodes.
+
+L'apprentissage automatique comporte généralement deux phases.

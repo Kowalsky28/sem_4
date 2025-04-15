@@ -1,0 +1,9 @@
+Den funktionsprincip som ligger till grund för projektet kallas wiki (hawaiiska för snabbt).
+
+Wikiprincipen avser att det går snabbt att hitta artiklar, att det är enkelt att ändra och länka samman artiklar, att publiceringen inte fördröjs av redaktionell granskning och godkännande samt att det går snabbt att återställa ändringar till en tidigare version av artikeln.
+
+En wiki är en webbserver och databasserver som möjliggör för ett stort antal människor att tillsammans redigera webbsidor via webbgränssnitt, och innefattar funktioner för artikelhistorik och versionshantering.
+
+En wiki har således stora likheter med ett webbpubliceringssystem.
+
+Viktiga skillnader är att i en wiki lagras sidorna i en icke-hierarkisk struktur, vilket underlättar sökning och länkning, samt att wikier traditionellt har saknat funktioner för att hantera linjeorganisationens arbetsflöden och beslutsgång för godkännande av publicering.

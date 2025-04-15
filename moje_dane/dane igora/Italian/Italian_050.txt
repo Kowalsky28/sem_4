@@ -1,0 +1,9 @@
+Sempre negli anni '50, Alan Turing propose l'idea di una macchina che apprende, ovvero in grado di imparare e dunque diventare intelligente.
+
+La proposta specifica di Turing anticipa gli algoritmi genetici[11].
+
+Tuttavia già dalla metà degli anni '50 lo studio dell'intelligenza artificiale si stava concentrando su approcci logici di tipo knowledge-based, nota oggi sotto il nome di GOFAI, causando un distacco tra lo studio dell'IA e quello dell'apprendimento automatico.
+
+Sistemi di tipo probabilistico erano invasi di problemi sia teoretici sia pratici in termini di acquisizione e rappresentazione dei dati[10].
+
+Negli anni Ottanta, i sistemi esperti dominavano il campo dell'IA, e i sistemi basati sulla statistica non venivano più studiati[12].

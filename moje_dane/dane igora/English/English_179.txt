@@ -1,0 +1,9 @@
+However, real-world data such as images, video, and sensory data has not yielded to attempts to algorithmically define specific features.
+
+An alternative is to discover such features or representations thorough examination, without relying on explicit algorithms.
+
+Sparse dictionary learning is a feature learning method where a training example is represented as a linear combination of basis functions, and is assumed to be a sparse matrix.
+
+The method is strongly NP-hard and difficult to solve approximately.
+
+[54] A popular heuristic method for sparse dictionary learning is the K-SVD algorithm.

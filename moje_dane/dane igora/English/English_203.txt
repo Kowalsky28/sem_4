@@ -1,0 +1,9 @@
+In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.
+
+[101] In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively.
+
+Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR).
+
+However, these rates are ratios that fail to reveal their numerators and denominators.
+
+The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability.

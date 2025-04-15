@@ -25,13 +25,13 @@ public class Time {
                 StringBuilder ans = new StringBuilder("Od "+zdt.format(formatter)+" do "+zdt2.format(formatter));
 
                 Duration duration = Duration.between(zdt, zdt2);
-                calculateDaysAndWeeks(zdt.toLocalDate(),zdt2.toLocalDate(),ans);
+                boolean check = calculateDaysAndWeeks(zdt.toLocalDate(),zdt2.toLocalDate(),ans);
 
                 long durationHours = duration.getSeconds()/3600;
                 long durationMinutes = duration.getSeconds()/60;
                 ans.append("\n - godzin: ").append(durationHours).append(", minut: ").append(durationMinutes).toString();
-
-                calendarFormat(zdt.toLocalDate(),zdt2.toLocalDate(),ans);
+                if(check)
+                    calendarFormat(zdt.toLocalDate(),zdt2.toLocalDate(),ans);
 
                 return ans.toString();
             } else {
@@ -39,8 +39,8 @@ public class Time {
                 LocalDate start = LocalDate.parse(from);
                 LocalDate end = LocalDate.parse(to);
                 StringBuilder ans = new StringBuilder("Od "+start.format(formatter)+" do "+end.format(formatter));
-                calculateDaysAndWeeks(start,end,ans);
-                calendarFormat(start,end,ans);
+                if(calculateDaysAndWeeks(start,end,ans))
+                    calendarFormat(start,end,ans);
                 return ans.toString();
             }
         }catch (Exception e){
@@ -59,7 +59,7 @@ public class Time {
         if(months > 0 && days > 0) ans.append(", ");
         if(days > 0) ans.append(days).append(daysFormat(days));
     }
-    private static void calculateDaysAndWeeks(LocalDate start, LocalDate end,StringBuilder sb){
+    private static boolean calculateDaysAndWeeks(LocalDate start, LocalDate end,StringBuilder sb){
         long periodDays = ChronoUnit.DAYS.between(start, end);
         String periodWeek;
         if(periodDays / 7.0 == Math.floor(periodDays / 7.0)) {
@@ -68,6 +68,8 @@ public class Time {
             periodWeek = String.format("%.2f", periodDays / 7.0);
         }
         sb.append("\n - mija: ").append(periodDays).append(daysFormat((int)periodDays)+", tygodni ").append(periodWeek);
+
+        return periodDays > 0?true:false;
     }
     private static String daysFormat(int days){
         return days==1?" dzień":" dni";

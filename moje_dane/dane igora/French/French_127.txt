@@ -1,0 +1,9 @@
+Cette évolution peut potentiellement nuire à la confiance du public envers l’apprentissage automatique, mais surtout au potentiel à long terme de techniques très prometteuses[29].
+
+La voiture autonome présente un cadre test pour confronter l’apprentissage automatique à la société.
+
+En effet, ce n’est pas seulement l’algorithme qui se forme à la circulation routière et ses règles, mais aussi l’inverse.
+
+Le principe de responsabilité est remis en cause par l’apprentissage automatique, car l’algorithme n’est plus écrit mais apprend et développe une sorte d’intuition numérique.
+
+Les créateurs d’algorithmes ne sont plus en mesure de comprendre les « décisions » prises par leurs algorithmes, ceci par construction mathématique même de l’algorithme d’apprentissage automatique[30].

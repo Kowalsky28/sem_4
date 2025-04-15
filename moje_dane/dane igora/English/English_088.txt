@@ -1,0 +1,9 @@
+It is not rare for articles strongly related to a particular language not to have counterparts in another edition.
+
+For example, articles about small towns in the United States might be available only in English, even when they meet the notability criteria of other language Wikipedia projects.
+
+Translated articles represent only a small portion of articles in most editions, in part because those editions do not allow fully automated translation of articles.
+
+[142] Articles available in more than one language may offer "interwiki links", which link to the counterpart articles in other editions.
+
+A study published by PLOS One in 2012 also estimated the share of contributions to different editions of Wikipedia from different regions of the world.

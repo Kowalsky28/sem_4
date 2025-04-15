@@ -1,0 +1,9 @@
+[4] Altri progetti L’apprendimento automatico (nella letteratura di lingua anglosassone machine learning) è una branca dell'intelligenza artificiale che raccoglie metodi sviluppati negli ultimi decenni del XX secolo in varie comunità scientifiche, sotto diversi nomi quali: statistica computazionale, riconoscimento di pattern, reti neurali artificiali, filtraggio adattivo, teoria dei sistemi dinamici, elaborazione delle immagini, data mining, algoritmi adattivi, ecc; che utilizza metodi statistici per migliorare la performance di un algoritmo nell'identificare pattern nei dati.
+
+Nell'ambito dell'informatica, l'apprendimento automatico è una variante alla programmazione tradizionale nella quale in una macchina si predispone l'abilità di apprendere qualcosa dai dati in maniera autonoma, senza istruzioni esplicite[1][2].
+
+Arthur Samuel, che coniò il termine nel 1959[3], in linea di principio identifica due approcci distinti.
+
+Il primo metodo, indicato come rete neurale, sviluppa macchine ad apprendimento automatico per impiego generale il cui comportamento è appreso da una rete di commutazione connessa casualmente, a seguito di una routine di apprendimento basata su ricompensa e punizione (apprendimento per rinforzo).
+
+Il secondo metodo, più specifico, consiste nel riprodurre l'equivalente di una rete altamente organizzata progettata per imparare solo attività specifiche.

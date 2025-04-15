@@ -1,0 +1,9 @@
+Such systems "learn" to perform tasks by considering examples, generally without being programmed with any task-specific rules.
+
+An ANN is a model based on a collection of connected units or nodes called "artificial neurons", which loosely model the neurons in a biological brain.
+
+Each connection, like the synapses in a biological brain, can transmit information, a "signal", from one artificial neuron to another.
+
+An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it.
+
+In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs.

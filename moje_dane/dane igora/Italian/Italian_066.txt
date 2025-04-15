@@ -1,0 +1,9 @@
+Alcune delle applicazioni più affermate dell'apprendimento profondo sono la visione artificiale e il riconoscimento vocale[31].
+
+La cluster analisi, o clustering, è in grado di rilevare similarità strutturali tra le osservazioni di un dataset attraverso l'assegnazione di un insieme di osservazioni in sottogruppi (cluster) di elementi tra loro omogenei[1].
+
+Il clustering è un metodo di apprendimento non supervisionato, e una tecnica comune per l'analisi statistica dei dati.
+
+Tutti i sistemi di riconoscimento vocale di maggior successo utilizzano metodi di apprendimento automatico.
+
+Ad esempio, il SPHINXsystem[32] impara le strategie di altoparlanti specifici per riconoscere i suoni primitivi (fonemi) e le parole del segnale vocale osservato.

@@ -1,0 +1,9 @@
+Se trata de un sistema de enlaces de neuronas que colaboran entre sí para producir un estímulo de salida.
+
+Las conexiones tienen pesos numéricos que se adaptan según la experiencia.
+
+De esta manera, las redes neurales se adaptan a un impulso y son capaces de aprender.
+
+La importancia de las redes neurales cayó durante un tiempo con el desarrollo de los vectores de soporte y clasificadores lineales, pero volvió a surgir a finales de la década de 2000 con la llegada del aprendizaje profundo.
+
+Las MVS son una serie de métodos de aprendizaje supervisado usados para clasificación y regresión.
