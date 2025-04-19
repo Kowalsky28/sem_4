@@ -63,9 +63,9 @@ public class Time {
         long periodDays = ChronoUnit.DAYS.between(start, end);
         String periodWeek;
         if(periodDays / 7.0 == Math.floor(periodDays / 7.0)) {
-            periodWeek = String.format("%d", periodDays / 7);
+            periodWeek = String.format(Locale.US,"%d", periodDays / 7);
         }else{
-            periodWeek = String.format("%.2f", periodDays / 7.0);
+            periodWeek = String.format(Locale.US,"%.2f", periodDays / 7.0);
         }
         sb.append("\n - mija: ").append(periodDays).append(daysFormat((int)periodDays)+", tygodni ").append(periodWeek);
 
